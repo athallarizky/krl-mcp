@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"os/exec"
 	"path/filepath"
-	"runtime"
 	"testing"
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
@@ -15,27 +14,20 @@ import (
 // the official SDK client — exactly how Claude Code would run it. `go test
 // ./...` needs nothing but this repository.
 func TestToolsEndToEnd(t *testing.T) {
-	_, thisFile, _, ok := runtime.Caller(0)
-	if !ok {
-		t.Fatal("runtime.Caller failed")
-	}
-	root, err := filepath.Abs(filepath.Join(filepath.Dir(thisFile), "..", ".."))
-	if err != nil {
-		t.Fatal(err)
-	}
-
 	bin := filepath.Join(t.TempDir(), "krl-mcp")
-	build := exec.Command("go", "build", "-o", bin, "./cmd/krl-mcp")
-	build.Dir = root
+	// build by import path — the test's cwd is this package dir, which is
+	// inside the module, so the path resolves
+	build := exec.Command("go", "build", "-o", bin, "github.com/athallarizky/krl-mcp/cmd/krl-mcp")
 	if out, err := build.CombinedOutput(); err != nil {
 		t.Fatalf("build: %v\n%s", err, out)
 	}
 
 	ctx := context.Background()
 	client := mcp.NewClient(&mcp.Implementation{Name: "test-client", Version: "0.1"}, nil)
-	// run the child from the repo root so the pinned data/ resolves
+	// run the child from a foreign cwd — the data is EMBEDDED, the binary
+	// must not care where it is spawned from
 	cmd := exec.Command(bin)
-	cmd.Dir = root
+	cmd.Dir = t.TempDir()
 	session, err := client.Connect(ctx, &mcp.CommandTransport{Command: cmd}, nil)
 	if err != nil {
 		t.Fatalf("connect: %v", err)

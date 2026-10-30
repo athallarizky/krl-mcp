@@ -13,8 +13,8 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"fmt"
-	"os"
-	"path/filepath"
+	"io"
+	"io/fs"
 	"sort"
 	"strconv"
 	"strings"
@@ -76,7 +76,7 @@ type Store struct {
 	snapshot  string               // capture date from manifest.json
 }
 
-// dataLayout is the pinned artifact layout inside the data directory.
+// Pinned artifact layout inside the embedded data tree.
 const (
 	snapshotDir = "data/openkrl/v2-snap6"
 	gtfsDir     = "data/openkrl/gtfs-v0.1.0"
@@ -107,9 +107,10 @@ func endpointCode(id string) string {
 	return id
 }
 
-// Load parses the pinned snapshot directory into memory. Every input is
-// validated — a broken artifact fails loudly at startup, not mid-query.
-func Load(root string) (*Store, error) {
+// Load parses the pinned snapshot (from the embedded FS) into memory.
+// Every input is validated — a broken artifact fails loudly at startup,
+// not mid-query.
+func Load(fsys fs.FS) (*Store, error) {
 	s := &Store{
 		byID:      map[string]*Station{},
 		byName:    map[string]*Station{},
@@ -118,18 +119,18 @@ func Load(root string) (*Store, error) {
 		trips:     map[string]*Trip{},
 		stopIndex: map[string][]stopRef{},
 	}
-	snap := filepath.Join(root, snapshotDir)
+	snap := snapshotDir
 
-	if err := s.loadStations(snap); err != nil {
+	if err := s.loadStations(fsys, snap); err != nil {
 		return nil, err
 	}
-	if err := s.loadCoords(root); err != nil {
+	if err := s.loadCoords(fsys); err != nil {
 		return nil, err
 	}
-	if err := s.loadBoards(snap); err != nil {
+	if err := s.loadBoards(fsys, snap); err != nil {
 		return nil, err
 	}
-	if err := s.loadTrips(root); err != nil {
+	if err := s.loadTrips(fsys); err != nil {
 		return nil, err
 	}
 
@@ -142,7 +143,7 @@ func Load(root string) (*Store, error) {
 	}
 	sort.Slice(s.stations, func(i, j int) bool { return s.stations[i].ID < s.stations[j].ID })
 
-	if raw, err := os.ReadFile(filepath.Join(snap, "manifest.json")); err == nil {
+	if raw, err := fs.ReadFile(fsys, snap+"/manifest.json"); err == nil {
 		var m struct {
 			SnapshotDate string `json:"snapshot_date"`
 		}
@@ -156,8 +157,8 @@ func Load(root string) (*Store, error) {
 // loadStations parses the station master (WIL header rows excluded — they
 // are regions, not stations; fg_enable is deliberately not trusted: the
 // Serang line operates while flagged disabled upstream).
-func (s *Store) loadStations(snap string) error {
-	raw, err := os.ReadFile(filepath.Join(snap, "stations.json"))
+func (s *Store) loadStations(fsys fs.FS, snap string) error {
+	raw, err := fs.ReadFile(fsys, snap+"/stations.json")
 	if err != nil {
 		return fmt.Errorf("store: stations.json: %w", err)
 	}
@@ -195,8 +196,8 @@ func (s *Store) loadStations(snap string) error {
 // loadCoords fills stations.lat/lon from the GTFS stops file, then from an
 // OSM extract for whatever is still missing (the Yogyakarta–Solo line) —
 // OSM never overwrites GTFS-grade values, mirroring the production importer.
-func (s *Store) loadCoords(root string) error {
-	rows, err := readCSV(filepath.Join(root, gtfsDir, "stops.txt"))
+func (s *Store) loadCoords(fsys fs.FS) error {
+	rows, err := readCSV(fsys, gtfsDir+"/stops.txt")
 	if err != nil {
 		return fmt.Errorf("store: stops.txt: %w", err)
 	}
@@ -216,7 +217,7 @@ func (s *Store) loadCoords(root string) error {
 		st.Lat, st.Lon = &lat, &lon
 	}
 
-	osm, err := readTSV(filepath.Join(root, osmCoords))
+	osm, err := readTSV(fsys, osmCoords)
 	if err != nil {
 		return fmt.Errorf("store: osm coords: %w", err)
 	}
@@ -242,14 +243,13 @@ func (s *Store) loadCoords(root string) error {
 // code (GGL's board lives in GRG.json). Stations outside the capture scope
 // (Yogyakarta–Solo, Serang) simply have no entry — Departures degrades to an
 // honest empty board.
-func (s *Store) loadBoards(snap string) error {
-	dir := filepath.Join(snap, "boards")
-	files, err := filepath.Glob(filepath.Join(dir, "*.json"))
+func (s *Store) loadBoards(fsys fs.FS, snap string) error {
+	files, err := fs.Glob(fsys, snap+"/boards/*.json")
 	if err != nil || len(files) == 0 {
 		return fmt.Errorf("store: boards/: %v (%d files)", err, len(files))
 	}
 	for _, f := range files {
-		raw, err := os.ReadFile(f)
+		raw, err := fs.ReadFile(fsys, f)
 		if err != nil {
 			return fmt.Errorf("store: %s: %w", f, err)
 		}
@@ -271,7 +271,7 @@ func (s *Store) loadBoards(snap string) error {
 		if env.Status != 200 {
 			return fmt.Errorf("store: %s: bad envelope status=%d", f, env.Status)
 		}
-		code := strings.TrimSuffix(filepath.Base(f), ".json")
+		code := strings.TrimSuffix(pathBase(f), ".json")
 		board := make([]Departure, 0, len(env.Data))
 		for _, d := range env.Data {
 			var arr *string
@@ -296,8 +296,8 @@ func (s *Store) loadBoards(snap string) error {
 
 // loadTrips parses the GTFS release (trips + stop_times) into the journey
 // map and the stop index the planner scans instead of a SQL self-join.
-func (s *Store) loadTrips(root string) error {
-	rows, err := readCSV(filepath.Join(root, gtfsDir, "trips.txt"))
+func (s *Store) loadTrips(fsys fs.FS) error {
+	rows, err := readCSV(fsys, gtfsDir+"/trips.txt")
 	if err != nil {
 		return fmt.Errorf("store: trips.txt: %w", err)
 	}
@@ -308,7 +308,7 @@ func (s *Store) loadTrips(root string) error {
 		s.trips[rec[2]] = &Trip{ID: rec[2], RouteID: rec[0], ServiceID: rec[1], Headsign: rec[3]}
 	}
 
-	srows, err := readCSV(filepath.Join(root, gtfsDir, "stop_times.txt"))
+	srows, err := readCSV(fsys, gtfsDir+"/stop_times.txt")
 	if err != nil {
 		return fmt.Errorf("store: stop_times.txt: %w", err)
 	}
@@ -354,9 +354,9 @@ func (s *Store) BoardCount() int { return len(s.boards) }
 // TripCount returns how many journeys the GTFS release carries.
 func (s *Store) TripCount() int { return len(s.trips) }
 
-// readCSV parses a comma-separated file with a header row.
-func readCSV(path string) ([][]string, error) {
-	f, err := os.Open(path)
+// readCSV parses a comma-separated file with a header row from fsys.
+func readCSV(fsys fs.FS, name string) ([][]string, error) {
+	f, err := fsys.Open(name)
 	if err != nil {
 		return nil, err
 	}
@@ -367,8 +367,13 @@ func readCSV(path string) ([][]string, error) {
 }
 
 // readTSV parses a tab-separated file without a header (raw Overpass csv).
-func readTSV(path string) ([][]string, error) {
-	raw, err := os.ReadFile(path)
+func readTSV(fsys fs.FS, name string) ([][]string, error) {
+	f, err := fsys.Open(name)
+	if err != nil {
+		return nil, err
+	}
+	defer f.Close()
+	raw, err := io.ReadAll(f)
 	if err != nil {
 		return nil, err
 	}
@@ -380,4 +385,13 @@ func readTSV(path string) ([][]string, error) {
 		out = append(out, strings.Split(line, "\t"))
 	}
 	return out, nil
+}
+
+// pathBase returns the final element of a slash-separated path (embed FS
+// always uses forward slashes).
+func pathBase(p string) string {
+	if i := strings.LastIndex(p, "/"); i >= 0 {
+		return p[i+1:]
+	}
+	return p
 }

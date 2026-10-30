@@ -19,7 +19,7 @@ Then ask Claude Code:
 > *"I'm at Tanah Abang and must reach Kebayoran before 6 AM — which train?"*
 > *"How does train 5133D get from Kranji to Duri?"*
 
-No Docker. No Postgres. No API keys. The 5 MB snapshot in `data/` is parsed into memory at startup.
+No Docker. No Postgres. No API keys. The open-krl snapshot is **embedded in the binary** (`go:embed`) and parsed into memory at startup — the build produces one self-contained executable that runs from anywhere.
 
 ## Tools
 
@@ -51,7 +51,7 @@ GTFS trips ─────────┘              └───────�
                                         your MCP host (Claude Code, ...)
 ```
 
-The SQL the production service runs against Postgres becomes plain scans here: the planner's trip self-join is a prebuilt `stop → (trip, seq)` index; line colors are reduced in-memory; station resolution is three maps plus a fallback scan. Same logic, same output shapes — zero moving parts.
+The snapshot is baked into the binary at build time (`go:embed`) — one ~15 MB static executable, no working-directory assumptions, no data files to lose. What the production service runs as SQL against Postgres becomes plain scans here: the planner's trip self-join is a prebuilt `stop → (trip, seq)` index; line colors are reduced in-memory; station resolution is three maps plus a fallback scan. Same logic, same output shapes — zero moving parts.
 
 ## The story: my LLM found my bugs
 

@@ -3,26 +3,15 @@ package store
 import (
 	"errors"
 	"math"
-	"path/filepath"
-	"runtime"
 	"testing"
+
+	asset "github.com/athallarizky/krl-mcp"
 )
 
-// repoRoot resolves the repository root regardless of the test's working
-// directory — `go test ./...` works from anywhere with zero setup.
-func repoRoot(t *testing.T) string {
-	t.Helper()
-	_, thisFile, _, ok := runtime.Caller(0)
-	if !ok {
-		t.Fatal("runtime.Caller failed")
-	}
-	return filepath.Join(filepath.Dir(thisFile), "..", "..")
-}
-
-// loadOnce loads the pinned snapshot for the whole test binary.
+// loadOnce loads the embedded snapshot for the whole test binary.
 func loadOnce(t *testing.T) *Store {
 	t.Helper()
-	s, err := Load(repoRoot(t))
+	s, err := Load(asset.FS)
 	if err != nil {
 		t.Fatalf("load: %v", err)
 	}
