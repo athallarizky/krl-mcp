@@ -1,0 +1,2 @@
+service_id,date,exception_type
+SVC_WD_FAK,20261225,2

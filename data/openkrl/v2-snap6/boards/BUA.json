@@ -1,0 +1,2885 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "5192C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "00:01:00",
+      "color": "#0084D8",
+      "dest_time": "00:36:00"
+    },
+    {
+      "train_id": "5194C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "00:11:00",
+      "color": "#0084D8",
+      "dest_time": "00:47:00"
+    },
+    {
+      "train_id": "5205A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "00:13:00",
+      "color": "#0084D8",
+      "dest_time": "00:27:00"
+    },
+    {
+      "train_id": "5198C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "00:28:00",
+      "color": "#0084D8",
+      "dest_time": "01:04:00"
+    },
+    {
+      "train_id": "5002",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "04:28:00",
+      "color": "#0084D8",
+      "dest_time": "05:04:00"
+    },
+    {
+      "train_id": "5004",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "04:39:00",
+      "color": "#0084D8",
+      "dest_time": "04:53:00"
+    },
+    {
+      "train_id": "5021C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "04:39:00",
+      "color": "#0084D8",
+      "dest_time": "05:16:00"
+    },
+    {
+      "train_id": "5023C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "04:47:00",
+      "color": "#0084D8",
+      "dest_time": "05:28:00"
+    },
+    {
+      "train_id": "5006",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "04:48:00",
+      "color": "#0084D8",
+      "dest_time": "05:02:00"
+    },
+    {
+      "train_id": "5027C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "04:53:00",
+      "color": "#0084D8",
+      "dest_time": "05:34:00"
+    },
+    {
+      "train_id": "5500A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "04:54:00",
+      "color": "#0084D8",
+      "dest_time": "05:32:00"
+    },
+    {
+      "train_id": "5008",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:01:00",
+      "color": "#0084D8",
+      "dest_time": "05:15:00"
+    },
+    {
+      "train_id": "5505C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "05:01:00",
+      "color": "#0084D8",
+      "dest_time": "05:51:00"
+    },
+    {
+      "train_id": "5029C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "05:07:00",
+      "color": "#0084D8",
+      "dest_time": "05:49:00"
+    },
+    {
+      "train_id": "5010",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "05:10:00",
+      "color": "#0084D8",
+      "dest_time": "05:46:00"
+    },
+    {
+      "train_id": "6001A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "05:15:00",
+      "color": "#0084D8",
+      "dest_time": "05:49:00"
+    },
+    {
+      "train_id": "5012",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:23:00",
+      "color": "#0084D8",
+      "dest_time": "05:37:00"
+    },
+    {
+      "train_id": "5507C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "05:24:00",
+      "color": "#0084D8",
+      "dest_time": "06:12:00"
+    },
+    {
+      "train_id": "5014",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "05:29:00",
+      "color": "#0084D8",
+      "dest_time": "06:05:00"
+    },
+    {
+      "train_id": "5031C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "05:34:00",
+      "color": "#0084D8",
+      "dest_time": "06:25:00"
+    },
+    {
+      "train_id": "5016C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:35:00",
+      "color": "#0084D8",
+      "dest_time": "05:49:00"
+    },
+    {
+      "train_id": "6003A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "05:39:00",
+      "color": "#0084D8",
+      "dest_time": "06:14:00"
+    },
+    {
+      "train_id": "5018C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "05:42:00",
+      "color": "#0084D8",
+      "dest_time": "06:25:00"
+    },
+    {
+      "train_id": "5033C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "05:45:00",
+      "color": "#0084D8",
+      "dest_time": "06:25:00"
+    },
+    {
+      "train_id": "5502",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:45:00",
+      "color": "#0084D8",
+      "dest_time": "06:00:00"
+    },
+    {
+      "train_id": "5020A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "05:53:00",
+      "color": "#0084D8",
+      "dest_time": "06:31:00"
+    },
+    {
+      "train_id": "5509C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "05:53:00",
+      "color": "#0084D8",
+      "dest_time": "06:41:00"
+    },
+    {
+      "train_id": "5037C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:00:00",
+      "color": "#0084D8",
+      "dest_time": "06:39:00"
+    },
+    {
+      "train_id": "5504",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "06:01:00",
+      "color": "#0084D8",
+      "dest_time": "06:37:00"
+    },
+    {
+      "train_id": "5022D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-TAMBUN",
+      "dest": "TAMBUN",
+      "time_est": "06:06:00",
+      "color": "#0084D8",
+      "dest_time": "06:29:00"
+    },
+    {
+      "train_id": "5511D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "06:08:00",
+      "color": "#0084D8",
+      "dest_time": "07:03:00"
+    },
+    {
+      "train_id": "5024D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:11:00",
+      "color": "#0084D8",
+      "dest_time": "06:25:00"
+    },
+    {
+      "train_id": "6005A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "06:14:00",
+      "color": "#0084D8",
+      "dest_time": "06:47:00"
+    },
+    {
+      "train_id": "5026",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "MANGGARAI-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "06:16:00",
+      "color": "#0084D8",
+      "dest_time": "06:54:00"
+    },
+    {
+      "train_id": "5039D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:21:00",
+      "color": "#0084D8",
+      "dest_time": "06:59:00"
+    },
+    {
+      "train_id": "5506A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:25:00",
+      "color": "#0084D8",
+      "dest_time": "06:39:00"
+    },
+    {
+      "train_id": "5041D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:26:00",
+      "color": "#0084D8",
+      "dest_time": "07:06:00"
+    },
+    {
+      "train_id": "5043D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:33:00",
+      "color": "#0084D8",
+      "dest_time": "07:11:00"
+    },
+    {
+      "train_id": "6002C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "06:36:00",
+      "color": "#0084D8",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "6007A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "06:39:00",
+      "color": "#0084D8",
+      "dest_time": "07:14:00"
+    },
+    {
+      "train_id": "5508A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:43:00",
+      "color": "#0084D8",
+      "dest_time": "06:57:00"
+    },
+    {
+      "train_id": "5045C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:45:00",
+      "color": "#0084D8",
+      "dest_time": "07:26:00"
+    },
+    {
+      "train_id": "5028C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:50:00",
+      "color": "#0084D8",
+      "dest_time": "07:05:00"
+    },
+    {
+      "train_id": "5049C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "06:52:00",
+      "color": "#0084D8",
+      "dest_time": "07:32:00"
+    },
+    {
+      "train_id": "5515C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "TAMBUN-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "06:58:00",
+      "color": "#0084D8",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "6004D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "07:03:00",
+      "color": "#0084D8",
+      "dest_time": "07:37:00"
+    },
+    {
+      "train_id": "5051C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "07:05:00",
+      "color": "#0084D8",
+      "dest_time": "07:48:00"
+    },
+    {
+      "train_id": "5030D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:07:00",
+      "color": "#0084D8",
+      "dest_time": "07:21:00"
+    },
+    {
+      "train_id": "6009A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "07:11:00",
+      "color": "#0084D8",
+      "dest_time": "07:43:00"
+    },
+    {
+      "train_id": "5034D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "07:12:00",
+      "color": "#0084D8",
+      "dest_time": "07:54:00"
+    },
+    {
+      "train_id": "5053C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "07:16:00",
+      "color": "#0084D8",
+      "dest_time": "07:55:00"
+    },
+    {
+      "train_id": "5510A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "07:16:00",
+      "color": "#0084D8",
+      "dest_time": "08:05:00"
+    },
+    {
+      "train_id": "5517C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "07:23:00",
+      "color": "#0084D8",
+      "dest_time": "08:11:00"
+    },
+    {
+      "train_id": "5036D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:27:00",
+      "color": "#0084D8",
+      "dest_time": "07:39:00"
+    },
+    {
+      "train_id": "6011A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "07:30:00",
+      "color": "#0084D8",
+      "dest_time": "08:02:00"
+    },
+    {
+      "train_id": "6006C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:32:00",
+      "color": "#0084D8",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "5055D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "07:39:00",
+      "color": "#0084D8",
+      "dest_time": "08:17:00"
+    },
+    {
+      "train_id": "5512A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:41:00",
+      "color": "#0084D8",
+      "dest_time": "07:58:00"
+    },
+    {
+      "train_id": "5057D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "07:45:00",
+      "color": "#0084D8",
+      "dest_time": "08:25:00"
+    },
+    {
+      "train_id": "5038D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "07:48:00",
+      "color": "#0084D8",
+      "dest_time": "08:29:00"
+    },
+    {
+      "train_id": "5519D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "07:53:00",
+      "color": "#0084D8",
+      "dest_time": "08:45:00"
+    },
+    {
+      "train_id": "5044E",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "07:56:00",
+      "color": "#0084D8",
+      "dest_time": "08:34:00"
+    },
+    {
+      "train_id": "5059C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "08:00:00",
+      "color": "#0084D8",
+      "dest_time": "08:48:00"
+    },
+    {
+      "train_id": "5514B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "08:01:00",
+      "color": "#0084D8",
+      "dest_time": "08:44:00"
+    },
+    {
+      "train_id": "6008C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:07:00",
+      "color": "#0084D8",
+      "dest_time": "08:22:00"
+    },
+    {
+      "train_id": "6013A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "08:07:00",
+      "color": "#0084D8",
+      "dest_time": "08:42:00"
+    },
+    {
+      "train_id": "5046C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:13:00",
+      "color": "#0084D8",
+      "dest_time": "08:29:00"
+    },
+    {
+      "train_id": "5521C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "08:14:00",
+      "color": "#0084D8",
+      "dest_time": "09:06:00"
+    },
+    {
+      "train_id": "5516A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:19:00",
+      "color": "#0084D8",
+      "dest_time": "08:35:00"
+    },
+    {
+      "train_id": "5063D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "08:25:00",
+      "color": "#0084D8",
+      "dest_time": "09:14:00"
+    },
+    {
+      "train_id": "5048E",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "08:29:00",
+      "color": "#0084D8",
+      "dest_time": "09:08:00"
+    },
+    {
+      "train_id": "6015A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "08:30:00",
+      "color": "#0084D8",
+      "dest_time": "09:02:00"
+    },
+    {
+      "train_id": "5050D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "08:36:00",
+      "color": "#0084D8",
+      "dest_time": "09:19:00"
+    },
+    {
+      "train_id": "5065C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "08:36:00",
+      "color": "#0084D8",
+      "dest_time": "09:16:00"
+    },
+    {
+      "train_id": "5067C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "08:43:00",
+      "color": "#0084D8",
+      "dest_time": "09:28:00"
+    },
+    {
+      "train_id": "5518A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:45:00",
+      "color": "#0084D8",
+      "dest_time": "08:59:00"
+    },
+    {
+      "train_id": "5052D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "08:50:00",
+      "color": "#0084D8",
+      "dest_time": "09:33:00"
+    },
+    {
+      "train_id": "5525D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "08:55:00",
+      "color": "#0084D8",
+      "dest_time": "09:44:00"
+    },
+    {
+      "train_id": "5054C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:58:00",
+      "color": "#0084D8",
+      "dest_time": "09:12:00"
+    },
+    {
+      "train_id": "5069D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "09:00:00",
+      "color": "#0084D8",
+      "dest_time": "09:50:00"
+    },
+    {
+      "train_id": "5056C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "09:06:00",
+      "color": "#0084D8",
+      "dest_time": "09:19:00"
+    },
+    {
+      "train_id": "6017A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "09:11:00",
+      "color": "#0084D8",
+      "dest_time": "09:43:00"
+    },
+    {
+      "train_id": "5520A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:17:00",
+      "color": "#0084D8",
+      "dest_time": "09:52:00"
+    },
+    {
+      "train_id": "5527C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "09:18:00",
+      "color": "#0084D8",
+      "dest_time": "10:07:00"
+    },
+    {
+      "train_id": "5071C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "09:25:00",
+      "color": "#0084D8",
+      "dest_time": "10:05:00"
+    },
+    {
+      "train_id": "6014C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "09:28:00",
+      "color": "#0084D8",
+      "dest_time": "09:42:00"
+    },
+    {
+      "train_id": "5073C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "09:33:00",
+      "color": "#0084D8",
+      "dest_time": "10:22:00"
+    },
+    {
+      "train_id": "5522B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:35:00",
+      "color": "#0084D8",
+      "dest_time": "10:17:00"
+    },
+    {
+      "train_id": "5075C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "09:38:00",
+      "color": "#0084D8",
+      "dest_time": "10:17:00"
+    },
+    {
+      "train_id": "5060C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "09:43:00",
+      "color": "#0084D8",
+      "dest_time": "09:57:00"
+    },
+    {
+      "train_id": "6019A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "09:43:00",
+      "color": "#0084D8",
+      "dest_time": "10:15:00"
+    },
+    {
+      "train_id": "5077C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "09:48:00",
+      "color": "#0084D8",
+      "dest_time": "10:28:00"
+    },
+    {
+      "train_id": "6016C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "09:49:00",
+      "color": "#0084D8",
+      "dest_time": "10:25:00"
+    },
+    {
+      "train_id": "5524A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:54:00",
+      "color": "#0084D8",
+      "dest_time": "10:31:00"
+    },
+    {
+      "train_id": "5529C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "09:54:00",
+      "color": "#0084D8",
+      "dest_time": "10:43:00"
+    },
+    {
+      "train_id": "5062D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "09:59:00",
+      "color": "#0084D8",
+      "dest_time": "10:14:00"
+    },
+    {
+      "train_id": "5079C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "10:04:00",
+      "color": "#0084D8",
+      "dest_time": "10:46:00"
+    },
+    {
+      "train_id": "5064C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "10:06:00",
+      "color": "#0084D8",
+      "dest_time": "10:44:00"
+    },
+    {
+      "train_id": "6021A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "10:09:00",
+      "color": "#0084D8",
+      "dest_time": "10:40:00"
+    },
+    {
+      "train_id": "5526A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "10:15:00",
+      "color": "#0084D8",
+      "dest_time": "10:55:00"
+    },
+    {
+      "train_id": "5066C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:20:00",
+      "color": "#0084D8",
+      "dest_time": "10:34:00"
+    },
+    {
+      "train_id": "5531D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "10:20:00",
+      "color": "#0084D8",
+      "dest_time": "11:06:00"
+    },
+    {
+      "train_id": "5081C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "10:24:00",
+      "color": "#0084D8",
+      "dest_time": "11:03:00"
+    },
+    {
+      "train_id": "6018D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-TAMBUN",
+      "dest": "TAMBUN",
+      "time_est": "10:32:00",
+      "color": "#0084D8",
+      "dest_time": "10:56:00"
+    },
+    {
+      "train_id": "5533D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "10:34:00",
+      "color": "#0084D8",
+      "dest_time": "11:22:00"
+    },
+    {
+      "train_id": "5068C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:37:00",
+      "color": "#0084D8",
+      "dest_time": "10:50:00"
+    },
+    {
+      "train_id": "6023B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "10:38:00",
+      "color": "#0084D8",
+      "dest_time": "11:14:00"
+    },
+    {
+      "train_id": "5528A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:42:00",
+      "color": "#0084D8",
+      "dest_time": "10:56:00"
+    },
+    {
+      "train_id": "5070C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "10:48:00",
+      "color": "#0084D8",
+      "dest_time": "11:27:00"
+    },
+    {
+      "train_id": "5085C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "10:48:00",
+      "color": "#0084D8",
+      "dest_time": "11:27:00"
+    },
+    {
+      "train_id": "5072C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:57:00",
+      "color": "#0084D8",
+      "dest_time": "11:10:00"
+    },
+    {
+      "train_id": "5087C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "10:58:00",
+      "color": "#0084D8",
+      "dest_time": "11:40:00"
+    },
+    {
+      "train_id": "6020C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "11:03:00",
+      "color": "#0084D8",
+      "dest_time": "11:42:00"
+    },
+    {
+      "train_id": "6025E",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "11:04:00",
+      "color": "#0084D8",
+      "dest_time": "11:35:00"
+    },
+    {
+      "train_id": "5089C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "11:09:00",
+      "color": "#0084D8",
+      "dest_time": "11:56:00"
+    },
+    {
+      "train_id": "5530A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:14:00",
+      "color": "#0084D8",
+      "dest_time": "11:28:00"
+    },
+    {
+      "train_id": "5091C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "11:15:00",
+      "color": "#0084D8",
+      "dest_time": "11:57:00"
+    },
+    {
+      "train_id": "5074C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "11:19:00",
+      "color": "#0084D8",
+      "dest_time": "11:58:00"
+    },
+    {
+      "train_id": "5093D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "11:23:00",
+      "color": "#0084D8",
+      "dest_time": "12:03:00"
+    },
+    {
+      "train_id": "6022C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:27:00",
+      "color": "#0084D8",
+      "dest_time": "11:41:00"
+    },
+    {
+      "train_id": "5537C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "TAMBUN-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "11:28:00",
+      "color": "#0084D8",
+      "dest_time": "12:20:00"
+    },
+    {
+      "train_id": "5078C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:33:00",
+      "color": "#0084D8",
+      "dest_time": "11:46:00"
+    },
+    {
+      "train_id": "6027A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "11:33:00",
+      "color": "#0084D8",
+      "dest_time": "12:10:00"
+    },
+    {
+      "train_id": "5532A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "11:37:00",
+      "color": "#0084D8",
+      "dest_time": "12:13:00"
+    },
+    {
+      "train_id": "5095C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "11:38:00",
+      "color": "#0084D8",
+      "dest_time": "12:20:00"
+    },
+    {
+      "train_id": "5080C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:42:00",
+      "color": "#0084D8",
+      "dest_time": "11:56:00"
+    },
+    {
+      "train_id": "5097C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "11:48:00",
+      "color": "#0084D8",
+      "dest_time": "12:31:00"
+    },
+    {
+      "train_id": "5082D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "11:49:00",
+      "color": "#0084D8",
+      "dest_time": "12:24:00"
+    },
+    {
+      "train_id": "5534A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:54:00",
+      "color": "#0084D8",
+      "dest_time": "12:08:00"
+    },
+    {
+      "train_id": "5539C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "11:57:00",
+      "color": "#0084D8",
+      "dest_time": "12:45:00"
+    },
+    {
+      "train_id": "5084D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "11:59:00",
+      "color": "#0084D8",
+      "dest_time": "12:36:00"
+    },
+    {
+      "train_id": "6029A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "12:02:00",
+      "color": "#0084D8",
+      "dest_time": "12:36:00"
+    },
+    {
+      "train_id": "6024D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "12:05:00",
+      "color": "#0084D8",
+      "dest_time": "12:49:00"
+    },
+    {
+      "train_id": "5099D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "12:07:00",
+      "color": "#0084D8",
+      "dest_time": "12:46:00"
+    },
+    {
+      "train_id": "5086C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "12:13:00",
+      "color": "#0084D8",
+      "dest_time": "12:59:00"
+    },
+    {
+      "train_id": "5101D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "12:13:00",
+      "color": "#0084D8",
+      "dest_time": "12:58:00"
+    },
+    {
+      "train_id": "5536A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "12:18:00",
+      "color": "#0084D8",
+      "dest_time": "12:32:00"
+    },
+    {
+      "train_id": "5541D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "12:22:00",
+      "color": "#0084D8",
+      "dest_time": "13:11:00"
+    },
+    {
+      "train_id": "6026D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "12:27:00",
+      "color": "#0084D8",
+      "dest_time": "12:41:00"
+    },
+    {
+      "train_id": "5103C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "12:31:00",
+      "color": "#0084D8",
+      "dest_time": "13:12:00"
+    },
+    {
+      "train_id": "5088C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "12:34:00",
+      "color": "#0084D8",
+      "dest_time": "13:13:00"
+    },
+    {
+      "train_id": "6031A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "12:37:00",
+      "color": "#0084D8",
+      "dest_time": "13:10:00"
+    },
+    {
+      "train_id": "5090D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "12:43:00",
+      "color": "#0084D8",
+      "dest_time": "12:58:00"
+    },
+    {
+      "train_id": "6033A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "12:45:00",
+      "color": "#0084D8",
+      "dest_time": "13:18:00"
+    },
+    {
+      "train_id": "5538A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "12:48:00",
+      "color": "#0084D8",
+      "dest_time": "13:25:00"
+    },
+    {
+      "train_id": "5543C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "12:54:00",
+      "color": "#0084D8",
+      "dest_time": "13:42:00"
+    },
+    {
+      "train_id": "6028D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "12:57:00",
+      "color": "#0084D8",
+      "dest_time": "13:35:00"
+    },
+    {
+      "train_id": "5107C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "13:00:00",
+      "color": "#0084D8",
+      "dest_time": "13:48:00"
+    },
+    {
+      "train_id": "5092C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:02:00",
+      "color": "#0084D8",
+      "dest_time": "13:16:00"
+    },
+    {
+      "train_id": "6035D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "13:05:00",
+      "color": "#0084D8",
+      "dest_time": "13:35:00"
+    },
+    {
+      "train_id": "5094C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "13:08:00",
+      "color": "#0084D8",
+      "dest_time": "13:44:00"
+    },
+    {
+      "train_id": "5109C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "13:15:00",
+      "color": "#0084D8",
+      "dest_time": "14:11:00"
+    },
+    {
+      "train_id": "5540A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:15:00",
+      "color": "#0084D8",
+      "dest_time": "13:29:00"
+    },
+    {
+      "train_id": "6037A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "13:20:00",
+      "color": "#0084D8",
+      "dest_time": "13:53:00"
+    },
+    {
+      "train_id": "5111D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "13:28:00",
+      "color": "#0084D8",
+      "dest_time": "14:07:00"
+    },
+    {
+      "train_id": "5098D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:31:00",
+      "color": "#0084D8",
+      "dest_time": "13:44:00"
+    },
+    {
+      "train_id": "5545C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "13:34:00",
+      "color": "#0084D8",
+      "dest_time": "14:23:00"
+    },
+    {
+      "train_id": "5100D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "13:36:00",
+      "color": "#0084D8",
+      "dest_time": "14:20:00"
+    },
+    {
+      "train_id": "5542B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:40:00",
+      "color": "#0084D8",
+      "dest_time": "13:53:00"
+    },
+    {
+      "train_id": "5115C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "13:48:00",
+      "color": "#0084D8",
+      "dest_time": "14:31:00"
+    },
+    {
+      "train_id": "5102C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:51:00",
+      "color": "#0084D8",
+      "dest_time": "14:04:00"
+    },
+    {
+      "train_id": "6039A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "13:53:00",
+      "color": "#0084D8",
+      "dest_time": "14:25:00"
+    },
+    {
+      "train_id": "6032C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:56:00",
+      "color": "#0084D8",
+      "dest_time": "14:10:00"
+    },
+    {
+      "train_id": "5547C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "13:59:00",
+      "color": "#0084D8",
+      "dest_time": "14:48:00"
+    },
+    {
+      "train_id": "5117C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "14:05:00",
+      "color": "#0084D8",
+      "dest_time": "14:43:00"
+    },
+    {
+      "train_id": "6034C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:07:00",
+      "color": "#0084D8",
+      "dest_time": "14:21:00"
+    },
+    {
+      "train_id": "6041B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "14:11:00",
+      "color": "#0084D8",
+      "dest_time": "14:49:00"
+    },
+    {
+      "train_id": "5104D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "14:12:00",
+      "color": "#0084D8",
+      "dest_time": "14:54:00"
+    },
+    {
+      "train_id": "5119D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "14:16:00",
+      "color": "#0084D8",
+      "dest_time": "15:02:00"
+    },
+    {
+      "train_id": "5544A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:16:00",
+      "color": "#0084D8",
+      "dest_time": "14:33:00"
+    },
+    {
+      "train_id": "5121C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "14:22:00",
+      "color": "#0084D8",
+      "dest_time": "15:00:00"
+    },
+    {
+      "train_id": "5549C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "14:27:00",
+      "color": "#0084D8",
+      "dest_time": "15:16:00"
+    },
+    {
+      "train_id": "6036D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "14:27:00",
+      "color": "#0084D8",
+      "dest_time": "15:03:00"
+    },
+    {
+      "train_id": "5106C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:34:00",
+      "color": "#0084D8",
+      "dest_time": "14:48:00"
+    },
+    {
+      "train_id": "5123C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "14:34:00",
+      "color": "#0084D8",
+      "dest_time": "15:17:00"
+    },
+    {
+      "train_id": "6043B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "14:40:00",
+      "color": "#0084D8",
+      "dest_time": "15:14:00"
+    },
+    {
+      "train_id": "6038C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "14:42:00",
+      "color": "#0084D8",
+      "dest_time": "15:20:00"
+    },
+    {
+      "train_id": "5551C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "14:45:00",
+      "color": "#0084D8",
+      "dest_time": "15:37:00"
+    },
+    {
+      "train_id": "5108C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:48:00",
+      "color": "#0084D8",
+      "dest_time": "15:02:00"
+    },
+    {
+      "train_id": "6045A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "14:50:00",
+      "color": "#0084D8",
+      "dest_time": "15:23:00"
+    },
+    {
+      "train_id": "5546A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "14:52:00",
+      "color": "#0084D8",
+      "dest_time": "15:29:00"
+    },
+    {
+      "train_id": "5125C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "14:55:00",
+      "color": "#0084D8",
+      "dest_time": "15:37:00"
+    },
+    {
+      "train_id": "5110C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:58:00",
+      "color": "#0084D8",
+      "dest_time": "15:12:00"
+    },
+    {
+      "train_id": "5112C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "15:04:00",
+      "color": "#0084D8",
+      "dest_time": "15:41:00"
+    },
+    {
+      "train_id": "6047B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "15:09:00",
+      "color": "#0084D8",
+      "dest_time": "15:40:00"
+    },
+    {
+      "train_id": "6040C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:12:00",
+      "color": "#0084D8",
+      "dest_time": "15:26:00"
+    },
+    {
+      "train_id": "5553C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "15:17:00",
+      "color": "#0084D8",
+      "dest_time": "16:04:00"
+    },
+    {
+      "train_id": "5114C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "15:18:00",
+      "color": "#0084D8",
+      "dest_time": "15:55:00"
+    },
+    {
+      "train_id": "5548A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:25:00",
+      "color": "#0084D8",
+      "dest_time": "15:40:00"
+    },
+    {
+      "train_id": "5129C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "15:28:00",
+      "color": "#0084D8",
+      "dest_time": "16:14:00"
+    },
+    {
+      "train_id": "5116C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "15:32:00",
+      "color": "#0084D8",
+      "dest_time": "16:08:00"
+    },
+    {
+      "train_id": "5131C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "15:32:00",
+      "color": "#0084D8",
+      "dest_time": "16:13:00"
+    },
+    {
+      "train_id": "6042C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:38:00",
+      "color": "#0084D8",
+      "dest_time": "15:52:00"
+    },
+    {
+      "train_id": "6049B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "15:43:00",
+      "color": "#0084D8",
+      "dest_time": "16:16:00"
+    },
+    {
+      "train_id": "5550A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:48:00",
+      "color": "#0084D8",
+      "dest_time": "16:03:00"
+    },
+    {
+      "train_id": "5555C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "15:49:00",
+      "color": "#0084D8",
+      "dest_time": "16:39:00"
+    },
+    {
+      "train_id": "5120C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:54:00",
+      "color": "#0084D8",
+      "dest_time": "16:08:00"
+    },
+    {
+      "train_id": "5122D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "15:59:00",
+      "color": "#0084D8",
+      "dest_time": "16:37:00"
+    },
+    {
+      "train_id": "5137D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "15:59:00",
+      "color": "#0084D8",
+      "dest_time": "16:44:00"
+    },
+    {
+      "train_id": "5133D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "16:05:00",
+      "color": "#0084D8",
+      "dest_time": "16:43:00"
+    },
+    {
+      "train_id": "5552A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "16:09:00",
+      "color": "#0084D8",
+      "dest_time": "16:45:00"
+    },
+    {
+      "train_id": "6051A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "16:09:00",
+      "color": "#0084D8",
+      "dest_time": "16:43:00"
+    },
+    {
+      "train_id": "6044C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:14:00",
+      "color": "#0084D8",
+      "dest_time": "16:28:00"
+    },
+    {
+      "train_id": "5139C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "16:16:00",
+      "color": "#0084D8",
+      "dest_time": "16:57:00"
+    },
+    {
+      "train_id": "5124C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "16:20:00",
+      "color": "#0084D8",
+      "dest_time": "16:57:00"
+    },
+    {
+      "train_id": "5557C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "16:21:00",
+      "color": "#0084D8",
+      "dest_time": "17:11:00"
+    },
+    {
+      "train_id": "5141C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "16:28:00",
+      "color": "#0084D8",
+      "dest_time": "17:11:00"
+    },
+    {
+      "train_id": "6048C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "16:29:00",
+      "color": "#0084D8",
+      "dest_time": "17:06:00"
+    },
+    {
+      "train_id": "6053A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "16:34:00",
+      "color": "#0084D8",
+      "dest_time": "17:07:00"
+    },
+    {
+      "train_id": "5554A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:37:00",
+      "color": "#0084D8",
+      "dest_time": "16:53:00"
+    },
+    {
+      "train_id": "5143C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "16:40:00",
+      "color": "#0084D8",
+      "dest_time": "17:30:00"
+    },
+    {
+      "train_id": "5126D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "16:43:00",
+      "color": "#0084D8",
+      "dest_time": "17:20:00"
+    },
+    {
+      "train_id": "5145C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "16:46:00",
+      "color": "#0084D8",
+      "dest_time": "17:28:00"
+    },
+    {
+      "train_id": "5128C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:51:00",
+      "color": "#0084D8",
+      "dest_time": "17:05:00"
+    },
+    {
+      "train_id": "6055A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "16:51:00",
+      "color": "#0084D8",
+      "dest_time": "17:25:00"
+    },
+    {
+      "train_id": "5147D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "17:01:00",
+      "color": "#0084D8",
+      "dest_time": "17:55:00"
+    },
+    {
+      "train_id": "6050D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:03:00",
+      "color": "#0084D8",
+      "dest_time": "17:18:00"
+    },
+    {
+      "train_id": "6057A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "17:10:00",
+      "color": "#0084D8",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "5556A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:11:00",
+      "color": "#0084D8",
+      "dest_time": "17:25:00"
+    },
+    {
+      "train_id": "5132C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "17:17:00",
+      "color": "#0084D8",
+      "dest_time": "18:05:00"
+    },
+    {
+      "train_id": "5149C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "17:17:00",
+      "color": "#0084D8",
+      "dest_time": "17:56:00"
+    },
+    {
+      "train_id": "5134C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:26:00",
+      "color": "#0084D8",
+      "dest_time": "17:39:00"
+    },
+    {
+      "train_id": "5151D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "17:26:00",
+      "color": "#0084D8",
+      "dest_time": "18:07:00"
+    },
+    {
+      "train_id": "5561C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "17:30:00",
+      "color": "#0084D8",
+      "dest_time": "18:20:00"
+    },
+    {
+      "train_id": "6052D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:32:00",
+      "color": "#0084D8",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "5136C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "17:37:00",
+      "color": "#0084D8",
+      "dest_time": "18:13:00"
+    },
+    {
+      "train_id": "6059B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "17:38:00",
+      "color": "#0084D8",
+      "dest_time": "18:14:00"
+    },
+    {
+      "train_id": "5558A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:41:00",
+      "color": "#0084D8",
+      "dest_time": "17:56:00"
+    },
+    {
+      "train_id": "5153C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "17:45:00",
+      "color": "#0084D8",
+      "dest_time": "18:38:00"
+    },
+    {
+      "train_id": "5138C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:50:00",
+      "color": "#0084D8",
+      "dest_time": "18:04:00"
+    },
+    {
+      "train_id": "5155C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "17:53:00",
+      "color": "#0084D8",
+      "dest_time": "18:35:00"
+    },
+    {
+      "train_id": "6054C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "17:57:00",
+      "color": "#0084D8",
+      "dest_time": "18:35:00"
+    },
+    {
+      "train_id": "6061A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "17:58:00",
+      "color": "#0084D8",
+      "dest_time": "18:31:00"
+    },
+    {
+      "train_id": "5140C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:02:00",
+      "color": "#0084D8",
+      "dest_time": "18:16:00"
+    },
+    {
+      "train_id": "5563C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "18:03:00",
+      "color": "#0084D8",
+      "dest_time": "18:51:00"
+    },
+    {
+      "train_id": "5142C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "18:07:00",
+      "color": "#0084D8",
+      "dest_time": "18:44:00"
+    },
+    {
+      "train_id": "5157C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "18:08:00",
+      "color": "#0084D8",
+      "dest_time": "18:59:00"
+    },
+    {
+      "train_id": "6056C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "18:13:00",
+      "color": "#0084D8",
+      "dest_time": "18:56:00"
+    },
+    {
+      "train_id": "5159C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "18:13:30",
+      "color": "#0084D8",
+      "dest_time": "19:06:00"
+    },
+    {
+      "train_id": "5560A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:18:00",
+      "color": "#0084D8",
+      "dest_time": "18:32:00"
+    },
+    {
+      "train_id": "5144C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:23:00",
+      "color": "#0084D8",
+      "dest_time": "18:37:00"
+    },
+    {
+      "train_id": "5161C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "18:23:00",
+      "color": "#0084D8",
+      "dest_time": "19:05:00"
+    },
+    {
+      "train_id": "5146D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-TAMBUN",
+      "dest": "TAMBUN",
+      "time_est": "18:28:00",
+      "color": "#0084D8",
+      "dest_time": "18:50:00"
+    },
+    {
+      "train_id": "6063A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "18:29:00",
+      "color": "#0084D8",
+      "dest_time": "19:01:00"
+    },
+    {
+      "train_id": "6058C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:36:00",
+      "color": "#0084D8",
+      "dest_time": "18:51:00"
+    },
+    {
+      "train_id": "5565D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "18:38:00",
+      "color": "#0084D8",
+      "dest_time": "19:23:00"
+    },
+    {
+      "train_id": "5148C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "18:41:00",
+      "color": "#0084D8",
+      "dest_time": "19:19:00"
+    },
+    {
+      "train_id": "5165C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "18:44:00",
+      "color": "#0084D8",
+      "dest_time": "19:30:00"
+    },
+    {
+      "train_id": "5562A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "18:50:00",
+      "color": "#0084D8",
+      "dest_time": "19:25:00"
+    },
+    {
+      "train_id": "5567C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "18:53:00",
+      "color": "#0084D8",
+      "dest_time": "19:46:00"
+    },
+    {
+      "train_id": "5150C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:58:00",
+      "color": "#0084D8",
+      "dest_time": "19:11:00"
+    },
+    {
+      "train_id": "6065A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "18:58:00",
+      "color": "#0084D8",
+      "dest_time": "19:37:00"
+    },
+    {
+      "train_id": "6060C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "19:05:00",
+      "color": "#0084D8",
+      "dest_time": "19:49:00"
+    },
+    {
+      "train_id": "5167C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "19:07:00",
+      "color": "#0084D8",
+      "dest_time": "19:47:00"
+    },
+    {
+      "train_id": "5569C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "19:14:00",
+      "color": "#0084D8",
+      "dest_time": "20:04:00"
+    },
+    {
+      "train_id": "6062C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:18:00",
+      "color": "#0084D8",
+      "dest_time": "19:31:00"
+    },
+    {
+      "train_id": "5169D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "TAMBUN-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "19:21:00",
+      "color": "#0084D8",
+      "dest_time": "20:03:00"
+    },
+    {
+      "train_id": "5564B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "19:25:00",
+      "color": "#0084D8",
+      "dest_time": "20:01:00"
+    },
+    {
+      "train_id": "6067B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "19:25:30",
+      "color": "#0084D8",
+      "dest_time": "20:00:00"
+    },
+    {
+      "train_id": "5171D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "19:30:00",
+      "color": "#0084D8",
+      "dest_time": "20:07:00"
+    },
+    {
+      "train_id": "5152C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:31:00",
+      "color": "#0084D8",
+      "dest_time": "19:45:00"
+    },
+    {
+      "train_id": "5154C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:35:00",
+      "color": "#0084D8",
+      "dest_time": "19:50:00"
+    },
+    {
+      "train_id": "5173D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "19:37:00",
+      "color": "#0084D8",
+      "dest_time": "20:20:00"
+    },
+    {
+      "train_id": "5156C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "19:43:00",
+      "color": "#0084D8",
+      "dest_time": "20:20:00"
+    },
+    {
+      "train_id": "5573C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "19:44:00",
+      "color": "#0084D8",
+      "dest_time": "20:37:00"
+    },
+    {
+      "train_id": "6069A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "19:49:00",
+      "color": "#0084D8",
+      "dest_time": "20:22:00"
+    },
+    {
+      "train_id": "5566B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:53:00",
+      "color": "#0084D8",
+      "dest_time": "20:07:00"
+    },
+    {
+      "train_id": "5575D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "19:56:00",
+      "color": "#0084D8",
+      "dest_time": "20:47:00"
+    },
+    {
+      "train_id": "5158C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "19:59:00",
+      "color": "#0084D8",
+      "dest_time": "20:42:00"
+    },
+    {
+      "train_id": "5175C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "20:05:00",
+      "color": "#0084D8",
+      "dest_time": "20:45:00"
+    },
+    {
+      "train_id": "5160C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:12:00",
+      "color": "#0084D8",
+      "dest_time": "20:26:00"
+    },
+    {
+      "train_id": "5177A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "20:15:00",
+      "color": "#0084D8",
+      "dest_time": "20:29:00"
+    },
+    {
+      "train_id": "6071B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "20:18:30",
+      "color": "#0084D8",
+      "dest_time": "20:51:00"
+    },
+    {
+      "train_id": "5568B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "20:21:00",
+      "color": "#0084D8",
+      "dest_time": "20:58:00"
+    },
+    {
+      "train_id": "5577C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "20:24:00",
+      "color": "#0084D8",
+      "dest_time": "21:12:00"
+    },
+    {
+      "train_id": "6066C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "20:27:00",
+      "color": "#0084D8",
+      "dest_time": "21:13:00"
+    },
+    {
+      "train_id": "6073A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "20:29:00",
+      "color": "#0084D8",
+      "dest_time": "21:01:00"
+    },
+    {
+      "train_id": "5179C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "20:37:00",
+      "color": "#0084D8",
+      "dest_time": "21:29:00"
+    },
+    {
+      "train_id": "5570A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:39:00",
+      "color": "#0084D8",
+      "dest_time": "20:53:00"
+    },
+    {
+      "train_id": "5166D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "20:45:00",
+      "color": "#0084D8",
+      "dest_time": "21:28:00"
+    },
+    {
+      "train_id": "5181C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "20:52:00",
+      "color": "#0084D8",
+      "dest_time": "21:31:00"
+    },
+    {
+      "train_id": "5572A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:53:00",
+      "color": "#0084D8",
+      "dest_time": "21:07:00"
+    },
+    {
+      "train_id": "5168D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "20:57:00",
+      "color": "#0084D8",
+      "dest_time": "21:41:00"
+    },
+    {
+      "train_id": "5579C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "20:59:00",
+      "color": "#0084D8",
+      "dest_time": "21:47:00"
+    },
+    {
+      "train_id": "6075",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "21:04:00",
+      "color": "#0084D8",
+      "dest_time": "21:43:00"
+    },
+    {
+      "train_id": "5574A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:07:00",
+      "color": "#0084D8",
+      "dest_time": "21:21:00"
+    },
+    {
+      "train_id": "6070C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:11:00",
+      "color": "#0084D8",
+      "dest_time": "21:25:00"
+    },
+    {
+      "train_id": "5576A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "21:20:00",
+      "color": "#0084D8",
+      "dest_time": "22:03:00"
+    },
+    {
+      "train_id": "6077A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "21:20:00",
+      "color": "#0084D8",
+      "dest_time": "21:53:00"
+    },
+    {
+      "train_id": "5170C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:27:00",
+      "color": "#0084D8",
+      "dest_time": "21:40:00"
+    },
+    {
+      "train_id": "5581D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "21:28:00",
+      "color": "#0084D8",
+      "dest_time": "22:14:00"
+    },
+    {
+      "train_id": "5185D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "21:33:00",
+      "color": "#0084D8",
+      "dest_time": "22:10:00"
+    },
+    {
+      "train_id": "5174C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "21:34:00",
+      "color": "#0084D8",
+      "dest_time": "22:15:00"
+    },
+    {
+      "train_id": "5187C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "21:41:00",
+      "color": "#0084D8",
+      "dest_time": "22:26:00"
+    },
+    {
+      "train_id": "5578B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "21:42:00",
+      "color": "#0084D8",
+      "dest_time": "22:26:00"
+    },
+    {
+      "train_id": "5583C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN",
+      "dest": "KAMPUNGBANDAN",
+      "time_est": "21:47:00",
+      "color": "#0084D8",
+      "dest_time": "22:41:00"
+    },
+    {
+      "train_id": "6074C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:48:00",
+      "color": "#0084D8",
+      "dest_time": "22:02:00"
+    },
+    {
+      "train_id": "6079A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "21:52:00",
+      "color": "#0084D8",
+      "dest_time": "22:28:00"
+    },
+    {
+      "train_id": "5189C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "22:01:00",
+      "color": "#0084D8",
+      "dest_time": "22:43:00"
+    },
+    {
+      "train_id": "5176C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "22:03:00",
+      "color": "#0084D8",
+      "dest_time": "22:41:00"
+    },
+    {
+      "train_id": "5191C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-KAMPUNGBANDAN VIA MRI",
+      "dest": "KAMPUNGBANDAN VIA MRI",
+      "time_est": "22:11:00",
+      "color": "#0084D8",
+      "dest_time": "23:02:00"
+    },
+    {
+      "train_id": "5193C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "22:17:00",
+      "color": "#0084D8",
+      "dest_time": "23:03:00"
+    },
+    {
+      "train_id": "5580A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "22:17:00",
+      "color": "#0084D8",
+      "dest_time": "22:31:00"
+    },
+    {
+      "train_id": "5180C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "22:22:00",
+      "color": "#0084D8",
+      "dest_time": "22:36:00"
+    },
+    {
+      "train_id": "6081A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-KAMPUNGBANDAN VIA PSE",
+      "dest": "KAMPUNGBANDAN VIA PSE",
+      "time_est": "22:24:00",
+      "color": "#0084D8",
+      "dest_time": "22:56:00"
+    },
+    {
+      "train_id": "5182C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "22:33:00",
+      "color": "#0084D8",
+      "dest_time": "23:09:00"
+    },
+    {
+      "train_id": "5195",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "22:37:00",
+      "color": "#0084D8",
+      "dest_time": "22:53:00"
+    },
+    {
+      "train_id": "6078C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "22:40:00",
+      "color": "#0084D8",
+      "dest_time": "23:16:00"
+    },
+    {
+      "train_id": "5582A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "22:47:00",
+      "color": "#0084D8",
+      "dest_time": "23:01:00"
+    },
+    {
+      "train_id": "6083",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "22:50:30",
+      "color": "#0084D8",
+      "dest_time": "23:37:00"
+    },
+    {
+      "train_id": "5186D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "22:58:00",
+      "color": "#0084D8",
+      "dest_time": "23:39:00"
+    },
+    {
+      "train_id": "5197D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "23:01:00",
+      "color": "#0084D8",
+      "dest_time": "23:42:00"
+    },
+    {
+      "train_id": "5199C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-ANGKE",
+      "dest": "ANGKE",
+      "time_est": "23:08:00",
+      "color": "#0084D8",
+      "dest_time": "23:52:00"
+    },
+    {
+      "train_id": "5584A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "23:13:00",
+      "color": "#0084D8",
+      "dest_time": "23:26:00"
+    },
+    {
+      "train_id": "5201",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "23:16:00",
+      "color": "#0084D8",
+      "dest_time": "23:32:00"
+    },
+    {
+      "train_id": "6080C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "23:21:00",
+      "color": "#0084D8",
+      "dest_time": "00:05:00"
+    },
+    {
+      "train_id": "5203",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "23:24:00",
+      "color": "#0084D8",
+      "dest_time": "23:40:00"
+    },
+    {
+      "train_id": "5190C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "ANGKE-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "23:35:00",
+      "color": "#0084D8",
+      "dest_time": "23:49:00"
+    },
+    {
+      "train_id": "6082C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "23:42:00",
+      "color": "#0084D8",
+      "dest_time": "00:23:00"
+    },
+    {
+      "train_id": "6085A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "23:55:30",
+      "color": "#0084D8",
+      "dest_time": "00:35:00"
+    }
+  ]
+}

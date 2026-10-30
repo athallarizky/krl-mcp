@@ -1,0 +1,1553 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "5500A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "04:20:00",
+      "color": "#0084D8",
+      "dest_time": "05:32:00"
+    },
+    {
+      "train_id": "2200",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "05:00:00",
+      "color": "#DD0067",
+      "dest_time": "05:16:00"
+    },
+    {
+      "train_id": "5502",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:12:00",
+      "color": "#0084D8",
+      "dest_time": "06:00:00"
+    },
+    {
+      "train_id": "1504",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "05:15:00",
+      "color": "#E30A16",
+      "dest_time": "06:48:00"
+    },
+    {
+      "train_id": "1152",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "05:28:00",
+      "color": "#E30A16",
+      "dest_time": "06:54:00"
+    },
+    {
+      "train_id": "5504",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "05:28:00",
+      "color": "#0084D8",
+      "dest_time": "06:37:00"
+    },
+    {
+      "train_id": "2202",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "05:30:00",
+      "color": "#DD0067",
+      "dest_time": "05:46:00"
+    },
+    {
+      "train_id": "1154",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "05:36:00",
+      "color": "#E30A16",
+      "dest_time": "07:06:00"
+    },
+    {
+      "train_id": "1156A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "05:40:00",
+      "color": "#E30A16",
+      "dest_time": "07:15:00"
+    },
+    {
+      "train_id": "1158A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "05:51:00",
+      "color": "#E30A16",
+      "dest_time": "07:20:00"
+    },
+    {
+      "train_id": "2204",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "06:00:00",
+      "color": "#DD0067",
+      "dest_time": "06:16:00"
+    },
+    {
+      "train_id": "1506",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "06:11:00",
+      "color": "#E30A16",
+      "dest_time": "07:43:00"
+    },
+    {
+      "train_id": "1164",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:16:00",
+      "color": "#E30A16",
+      "dest_time": "07:45:00"
+    },
+    {
+      "train_id": "1166",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:25:00",
+      "color": "#E30A16",
+      "dest_time": "07:51:00"
+    },
+    {
+      "train_id": "1168",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:29:00",
+      "color": "#E30A16",
+      "dest_time": "07:56:00"
+    },
+    {
+      "train_id": "2206",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "06:30:00",
+      "color": "#DD0067",
+      "dest_time": "06:46:00"
+    },
+    {
+      "train_id": "1170",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:33:00",
+      "color": "#E30A16",
+      "dest_time": "08:06:00"
+    },
+    {
+      "train_id": "1172",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:41:00",
+      "color": "#E30A16",
+      "dest_time": "08:11:00"
+    },
+    {
+      "train_id": "1174",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "06:49:00",
+      "color": "#E30A16",
+      "dest_time": "07:49:00"
+    },
+    {
+      "train_id": "1176",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "06:53:00",
+      "color": "#E30A16",
+      "dest_time": "08:26:00"
+    },
+    {
+      "train_id": "2208",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "07:00:00",
+      "color": "#DD0067",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "1178",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:03:00",
+      "color": "#E30A16",
+      "dest_time": "08:32:00"
+    },
+    {
+      "train_id": "1180",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:09:00",
+      "color": "#E30A16",
+      "dest_time": "08:36:00"
+    },
+    {
+      "train_id": "1182",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:20:00",
+      "color": "#E30A16",
+      "dest_time": "08:46:00"
+    },
+    {
+      "train_id": "1184",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "07:24:00",
+      "color": "#E30A16",
+      "dest_time": "08:22:00"
+    },
+    {
+      "train_id": "1186",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:28:00",
+      "color": "#E30A16",
+      "dest_time": "08:55:00"
+    },
+    {
+      "train_id": "2210",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "07:30:00",
+      "color": "#DD0067",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "1188",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:35:00",
+      "color": "#E30A16",
+      "dest_time": "09:00:00"
+    },
+    {
+      "train_id": "1508",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "07:40:00",
+      "color": "#E30A16",
+      "dest_time": "09:07:00"
+    },
+    {
+      "train_id": "1190",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:44:00",
+      "color": "#E30A16",
+      "dest_time": "09:11:00"
+    },
+    {
+      "train_id": "1192F",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "07:48:00",
+      "color": "#E30A16",
+      "dest_time": "08:47:00"
+    },
+    {
+      "train_id": "1194",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "07:54:00",
+      "color": "#E30A16",
+      "dest_time": "09:19:00"
+    },
+    {
+      "train_id": "2212",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "08:00:00",
+      "color": "#DD0067",
+      "dest_time": "08:16:00"
+    },
+    {
+      "train_id": "1200",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "08:18:00",
+      "color": "#E30A16",
+      "dest_time": "09:45:00"
+    },
+    {
+      "train_id": "1202",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "08:22:00",
+      "color": "#E30A16",
+      "dest_time": "09:50:00"
+    },
+    {
+      "train_id": "2214",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "08:30:00",
+      "color": "#DD0067",
+      "dest_time": "08:46:00"
+    },
+    {
+      "train_id": "R1207-2",
+      "ka_name": "DINAS RANGKAIAN KRL",
+      "route_name": "JAKARTAKOTA-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "08:31:00",
+      "color": "#E30A16",
+      "dest_time": "08:54:00"
+    },
+    {
+      "train_id": "1206",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "08:39:00",
+      "color": "#E30A16",
+      "dest_time": "10:07:00"
+    },
+    {
+      "train_id": "1510",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "08:43:00",
+      "color": "#E30A16",
+      "dest_time": "10:12:00"
+    },
+    {
+      "train_id": "1210",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "08:55:00",
+      "color": "#E30A16",
+      "dest_time": "10:21:00"
+    },
+    {
+      "train_id": "1212",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "08:59:00",
+      "color": "#E30A16",
+      "dest_time": "10:29:00"
+    },
+    {
+      "train_id": "2216",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "09:00:00",
+      "color": "#DD0067",
+      "dest_time": "09:16:00"
+    },
+    {
+      "train_id": "1214",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "09:05:00",
+      "color": "#E30A16",
+      "dest_time": "10:34:00"
+    },
+    {
+      "train_id": "1216",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "09:14:00",
+      "color": "#E30A16",
+      "dest_time": "10:39:00"
+    },
+    {
+      "train_id": "2218",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "09:30:00",
+      "color": "#DD0067",
+      "dest_time": "09:46:00"
+    },
+    {
+      "train_id": "1222",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "09:32:00",
+      "color": "#E30A16",
+      "dest_time": "10:58:00"
+    },
+    {
+      "train_id": "1512",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "09:36:00",
+      "color": "#E30A16",
+      "dest_time": "11:05:00"
+    },
+    {
+      "train_id": "1224",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "09:40:00",
+      "color": "#E30A16",
+      "dest_time": "10:38:00"
+    },
+    {
+      "train_id": "1226",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "09:44:00",
+      "color": "#E30A16",
+      "dest_time": "11:10:00"
+    },
+    {
+      "train_id": "1228",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "09:48:00",
+      "color": "#E30A16",
+      "dest_time": "10:47:00"
+    },
+    {
+      "train_id": "1230",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "09:56:00",
+      "color": "#E30A16",
+      "dest_time": "11:21:00"
+    },
+    {
+      "train_id": "2220",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "10:00:00",
+      "color": "#DD0067",
+      "dest_time": "10:16:00"
+    },
+    {
+      "train_id": "1232",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "10:01:00",
+      "color": "#E30A16",
+      "dest_time": "10:59:00"
+    },
+    {
+      "train_id": "1236",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "10:20:00",
+      "color": "#E30A16",
+      "dest_time": "11:45:00"
+    },
+    {
+      "train_id": "1238",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "10:24:00",
+      "color": "#E30A16",
+      "dest_time": "11:50:00"
+    },
+    {
+      "train_id": "1240",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "10:28:00",
+      "color": "#E30A16",
+      "dest_time": "11:27:00"
+    },
+    {
+      "train_id": "2222",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "10:30:00",
+      "color": "#DD0067",
+      "dest_time": "10:46:00"
+    },
+    {
+      "train_id": "1242",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "10:33:00",
+      "color": "#E30A16",
+      "dest_time": "12:00:00"
+    },
+    {
+      "train_id": "1244",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "10:39:00",
+      "color": "#E30A16",
+      "dest_time": "12:05:00"
+    },
+    {
+      "train_id": "1248A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "10:49:00",
+      "color": "#E30A16",
+      "dest_time": "12:15:00"
+    },
+    {
+      "train_id": "1514",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "10:54:00",
+      "color": "#E30A16",
+      "dest_time": "12:22:00"
+    },
+    {
+      "train_id": "1250A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:00:00",
+      "color": "#E30A16",
+      "dest_time": "12:26:00"
+    },
+    {
+      "train_id": "2224",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "11:00:00",
+      "color": "#DD0067",
+      "dest_time": "11:16:00"
+    },
+    {
+      "train_id": "1252A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:04:00",
+      "color": "#E30A16",
+      "dest_time": "12:31:00"
+    },
+    {
+      "train_id": "1260",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:26:00",
+      "color": "#E30A16",
+      "dest_time": "12:52:00"
+    },
+    {
+      "train_id": "2226",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "11:30:00",
+      "color": "#DD0067",
+      "dest_time": "11:46:00"
+    },
+    {
+      "train_id": "1262",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:33:00",
+      "color": "#E30A16",
+      "dest_time": "12:58:00"
+    },
+    {
+      "train_id": "1266",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:44:00",
+      "color": "#E30A16",
+      "dest_time": "13:09:00"
+    },
+    {
+      "train_id": "1268",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "11:53:00",
+      "color": "#E30A16",
+      "dest_time": "13:18:00"
+    },
+    {
+      "train_id": "1516",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "11:57:00",
+      "color": "#E30A16",
+      "dest_time": "13:26:00"
+    },
+    {
+      "train_id": "2228",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "12:00:00",
+      "color": "#DD0067",
+      "dest_time": "12:16:00"
+    },
+    {
+      "train_id": "1272",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:14:00",
+      "color": "#E30A16",
+      "dest_time": "13:42:00"
+    },
+    {
+      "train_id": "1276",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:23:00",
+      "color": "#E30A16",
+      "dest_time": "13:50:00"
+    },
+    {
+      "train_id": "1278",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:28:00",
+      "color": "#E30A16",
+      "dest_time": "13:55:00"
+    },
+    {
+      "train_id": "2230",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "12:30:00",
+      "color": "#DD0067",
+      "dest_time": "12:46:00"
+    },
+    {
+      "train_id": "1282",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:38:00",
+      "color": "#E30A16",
+      "dest_time": "14:04:00"
+    },
+    {
+      "train_id": "1286",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:50:00",
+      "color": "#E30A16",
+      "dest_time": "14:15:00"
+    },
+    {
+      "train_id": "1290",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "12:59:00",
+      "color": "#E30A16",
+      "dest_time": "14:24:00"
+    },
+    {
+      "train_id": "2232",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "13:00:00",
+      "color": "#DD0067",
+      "dest_time": "13:16:00"
+    },
+    {
+      "train_id": "1518",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "13:09:00",
+      "color": "#E30A16",
+      "dest_time": "14:36:00"
+    },
+    {
+      "train_id": "1296",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "13:24:00",
+      "color": "#E30A16",
+      "dest_time": "14:49:00"
+    },
+    {
+      "train_id": "2234",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "13:30:00",
+      "color": "#DD0067",
+      "dest_time": "13:46:00"
+    },
+    {
+      "train_id": "1300",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "13:35:00",
+      "color": "#E30A16",
+      "dest_time": "15:01:00"
+    },
+    {
+      "train_id": "1302",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "13:40:00",
+      "color": "#E30A16",
+      "dest_time": "15:06:00"
+    },
+    {
+      "train_id": "1306",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "13:50:00",
+      "color": "#E30A16",
+      "dest_time": "15:16:00"
+    },
+    {
+      "train_id": "1308",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "13:58:00",
+      "color": "#E30A16",
+      "dest_time": "15:26:00"
+    },
+    {
+      "train_id": "2236",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "14:00:00",
+      "color": "#DD0067",
+      "dest_time": "14:16:00"
+    },
+    {
+      "train_id": "1310",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:03:00",
+      "color": "#E30A16",
+      "dest_time": "15:31:00"
+    },
+    {
+      "train_id": "1312",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:09:00",
+      "color": "#E30A16",
+      "dest_time": "15:36:00"
+    },
+    {
+      "train_id": "1520",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "14:14:00",
+      "color": "#E30A16",
+      "dest_time": "15:44:00"
+    },
+    {
+      "train_id": "1314",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:19:00",
+      "color": "#E30A16",
+      "dest_time": "15:44:00"
+    },
+    {
+      "train_id": "2238",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "14:30:00",
+      "color": "#DD0067",
+      "dest_time": "14:46:00"
+    },
+    {
+      "train_id": "1322",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:37:00",
+      "color": "#E30A16",
+      "dest_time": "16:03:00"
+    },
+    {
+      "train_id": "1326",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:47:00",
+      "color": "#E30A16",
+      "dest_time": "16:12:00"
+    },
+    {
+      "train_id": "1328",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:53:00",
+      "color": "#E30A16",
+      "dest_time": "16:19:00"
+    },
+    {
+      "train_id": "1330",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "14:59:00",
+      "color": "#E30A16",
+      "dest_time": "16:24:00"
+    },
+    {
+      "train_id": "2240",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "15:00:00",
+      "color": "#DD0067",
+      "dest_time": "15:16:00"
+    },
+    {
+      "train_id": "1332",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:08:00",
+      "color": "#E30A16",
+      "dest_time": "16:34:00"
+    },
+    {
+      "train_id": "1334",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:13:00",
+      "color": "#E30A16",
+      "dest_time": "16:39:00"
+    },
+    {
+      "train_id": "1522",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "15:21:00",
+      "color": "#E30A16",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "1336A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:25:00",
+      "color": "#E30A16",
+      "dest_time": "16:51:00"
+    },
+    {
+      "train_id": "2242",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "15:30:00",
+      "color": "#DD0067",
+      "dest_time": "15:46:00"
+    },
+    {
+      "train_id": "1340",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:36:00",
+      "color": "#E30A16",
+      "dest_time": "17:04:00"
+    },
+    {
+      "train_id": "1342A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:41:00",
+      "color": "#E30A16",
+      "dest_time": "17:10:00"
+    },
+    {
+      "train_id": "1344A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:45:00",
+      "color": "#E30A16",
+      "dest_time": "17:15:00"
+    },
+    {
+      "train_id": "1346A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "15:52:00",
+      "color": "#E30A16",
+      "dest_time": "17:21:00"
+    },
+    {
+      "train_id": "2244",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "16:00:00",
+      "color": "#DD0067",
+      "dest_time": "16:16:00"
+    },
+    {
+      "train_id": "1348",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:01:00",
+      "color": "#E30A16",
+      "dest_time": "17:27:00"
+    },
+    {
+      "train_id": "1350",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:08:00",
+      "color": "#E30A16",
+      "dest_time": "17:33:00"
+    },
+    {
+      "train_id": "1352",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:16:00",
+      "color": "#E30A16",
+      "dest_time": "17:43:00"
+    },
+    {
+      "train_id": "1354",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:20:00",
+      "color": "#E30A16",
+      "dest_time": "17:47:00"
+    },
+    {
+      "train_id": "1524",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "16:27:00",
+      "color": "#E30A16",
+      "dest_time": "17:53:00"
+    },
+    {
+      "train_id": "2246",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "16:30:00",
+      "color": "#DD0067",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "1356",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:35:00",
+      "color": "#E30A16",
+      "dest_time": "18:02:00"
+    },
+    {
+      "train_id": "1358",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:43:00",
+      "color": "#E30A16",
+      "dest_time": "18:08:00"
+    },
+    {
+      "train_id": "1360",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:51:00",
+      "color": "#E30A16",
+      "dest_time": "18:18:00"
+    },
+    {
+      "train_id": "1362",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "16:56:00",
+      "color": "#E30A16",
+      "dest_time": "18:23:00"
+    },
+    {
+      "train_id": "2248",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "17:00:00",
+      "color": "#DD0067",
+      "dest_time": "17:16:00"
+    },
+    {
+      "train_id": "1364",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:02:00",
+      "color": "#E30A16",
+      "dest_time": "18:28:00"
+    },
+    {
+      "train_id": "1366",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:06:00",
+      "color": "#E30A16",
+      "dest_time": "18:35:00"
+    },
+    {
+      "train_id": "1368",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:13:00",
+      "color": "#E30A16",
+      "dest_time": "18:39:00"
+    },
+    {
+      "train_id": "1370",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:23:00",
+      "color": "#E30A16",
+      "dest_time": "18:48:00"
+    },
+    {
+      "train_id": "2250",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "17:30:00",
+      "color": "#DD0067",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "1526",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "17:41:00",
+      "color": "#E30A16",
+      "dest_time": "19:10:00"
+    },
+    {
+      "train_id": "1376",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:45:00",
+      "color": "#E30A16",
+      "dest_time": "19:13:00"
+    },
+    {
+      "train_id": "1378",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:49:00",
+      "color": "#E30A16",
+      "dest_time": "19:17:00"
+    },
+    {
+      "train_id": "1380",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "17:57:00",
+      "color": "#E30A16",
+      "dest_time": "19:24:00"
+    },
+    {
+      "train_id": "2252",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "18:00:00",
+      "color": "#DD0067",
+      "dest_time": "18:16:00"
+    },
+    {
+      "train_id": "1382",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:06:00",
+      "color": "#E30A16",
+      "dest_time": "19:35:00"
+    },
+    {
+      "train_id": "1384",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:15:00",
+      "color": "#E30A16",
+      "dest_time": "19:40:00"
+    },
+    {
+      "train_id": "1386",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:22:00",
+      "color": "#E30A16",
+      "dest_time": "19:48:00"
+    },
+    {
+      "train_id": "1388",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:27:00",
+      "color": "#E30A16",
+      "dest_time": "19:53:00"
+    },
+    {
+      "train_id": "2254",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "18:30:00",
+      "color": "#DD0067",
+      "dest_time": "18:46:00"
+    },
+    {
+      "train_id": "1390",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:33:00",
+      "color": "#E30A16",
+      "dest_time": "19:58:00"
+    },
+    {
+      "train_id": "1392",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "18:41:00",
+      "color": "#E30A16",
+      "dest_time": "20:08:00"
+    },
+    {
+      "train_id": "1528",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "18:52:00",
+      "color": "#E30A16",
+      "dest_time": "20:20:00"
+    },
+    {
+      "train_id": "1396",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:00:00",
+      "color": "#E30A16",
+      "dest_time": "20:27:00"
+    },
+    {
+      "train_id": "2256",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "19:00:00",
+      "color": "#DD0067",
+      "dest_time": "19:16:00"
+    },
+    {
+      "train_id": "1398",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:09:00",
+      "color": "#E30A16",
+      "dest_time": "20:34:00"
+    },
+    {
+      "train_id": "1402",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "19:20:00",
+      "color": "#E30A16",
+      "dest_time": "20:18:00"
+    },
+    {
+      "train_id": "1404",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:24:00",
+      "color": "#E30A16",
+      "dest_time": "20:50:00"
+    },
+    {
+      "train_id": "1406",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:28:00",
+      "color": "#E30A16",
+      "dest_time": "20:59:00"
+    },
+    {
+      "train_id": "2258",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "19:30:00",
+      "color": "#DD0067",
+      "dest_time": "19:46:00"
+    },
+    {
+      "train_id": "1408",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:37:00",
+      "color": "#E30A16",
+      "dest_time": "21:03:00"
+    },
+    {
+      "train_id": "1410A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:45:00",
+      "color": "#E30A16",
+      "dest_time": "21:16:00"
+    },
+    {
+      "train_id": "1412A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:54:00",
+      "color": "#E30A16",
+      "dest_time": "21:22:00"
+    },
+    {
+      "train_id": "1414A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "19:58:00",
+      "color": "#E30A16",
+      "dest_time": "21:27:00"
+    },
+    {
+      "train_id": "2260",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "20:00:00",
+      "color": "#DD0067",
+      "dest_time": "20:16:00"
+    },
+    {
+      "train_id": "1416A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:02:00",
+      "color": "#E30A16",
+      "dest_time": "21:34:00"
+    },
+    {
+      "train_id": "1530",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "20:10:00",
+      "color": "#E30A16",
+      "dest_time": "21:40:00"
+    },
+    {
+      "train_id": "1418",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:19:00",
+      "color": "#E30A16",
+      "dest_time": "21:45:00"
+    },
+    {
+      "train_id": "1420",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:26:00",
+      "color": "#E30A16",
+      "dest_time": "21:51:00"
+    },
+    {
+      "train_id": "2262",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "20:30:00",
+      "color": "#DD0067",
+      "dest_time": "20:46:00"
+    },
+    {
+      "train_id": "1422",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:35:00",
+      "color": "#E30A16",
+      "dest_time": "22:00:00"
+    },
+    {
+      "train_id": "1428",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:53:00",
+      "color": "#E30A16",
+      "dest_time": "22:18:00"
+    },
+    {
+      "train_id": "1430",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "20:57:00",
+      "color": "#E30A16",
+      "dest_time": "22:23:00"
+    },
+    {
+      "train_id": "1432",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "21:03:00",
+      "color": "#E30A16",
+      "dest_time": "22:29:00"
+    },
+    {
+      "train_id": "1434",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "21:12:00",
+      "color": "#E30A16",
+      "dest_time": "22:36:00"
+    },
+    {
+      "train_id": "1436",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "21:19:00",
+      "color": "#E30A16",
+      "dest_time": "22:46:00"
+    },
+    {
+      "train_id": "1438",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "21:29:00",
+      "color": "#E30A16",
+      "dest_time": "22:56:00"
+    },
+    {
+      "train_id": "1442",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "21:45:00",
+      "color": "#E30A16",
+      "dest_time": "23:09:00"
+    },
+    {
+      "train_id": "1446",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "22:02:00",
+      "color": "#E30A16",
+      "dest_time": "23:27:00"
+    },
+    {
+      "train_id": "1448",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "22:10:00",
+      "color": "#E30A16",
+      "dest_time": "23:35:00"
+    },
+    {
+      "train_id": "1450",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "22:16:00",
+      "color": "#E30A16",
+      "dest_time": "23:14:00"
+    },
+    {
+      "train_id": "1452",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "22:21:00",
+      "color": "#E30A16",
+      "dest_time": "23:46:00"
+    },
+    {
+      "train_id": "1456",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "22:41:00",
+      "color": "#E30A16",
+      "dest_time": "23:38:00"
+    },
+    {
+      "train_id": "1458",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "22:48:00",
+      "color": "#E30A16",
+      "dest_time": "00:13:00"
+    },
+    {
+      "train_id": "1460",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "23:00:00",
+      "color": "#E30A16",
+      "dest_time": "00:25:00"
+    },
+    {
+      "train_id": "1462",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "23:15:00",
+      "color": "#E30A16",
+      "dest_time": "00:40:00"
+    },
+    {
+      "train_id": "1466",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-DEPOK",
+      "dest": "DEPOK",
+      "time_est": "23:30:00",
+      "color": "#E30A16",
+      "dest_time": "00:26:00"
+    },
+    {
+      "train_id": "1468",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "23:35:00",
+      "color": "#E30A16",
+      "dest_time": "00:58:00"
+    },
+    {
+      "train_id": "1470",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-BOGOR",
+      "dest": "BOGOR",
+      "time_est": "23:50:00",
+      "color": "#E30A16",
+      "dest_time": "01:15:00"
+    }
+  ]
+}

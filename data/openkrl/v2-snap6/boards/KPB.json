@@ -1,0 +1,1553 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "6085A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "00:30:00",
+      "color": "#0084D8",
+      "dest_time": "00:35:00"
+    },
+    {
+      "train_id": "5500A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "04:26:00",
+      "color": "#0084D8",
+      "dest_time": "05:32:00"
+    },
+    {
+      "train_id": "5018C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "04:58:00",
+      "color": "#0084D8",
+      "dest_time": "06:25:00"
+    },
+    {
+      "train_id": "2200",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "05:04:00",
+      "color": "#DD0067",
+      "dest_time": "05:16:00"
+    },
+    {
+      "train_id": "5502",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:18:00",
+      "color": "#0084D8",
+      "dest_time": "06:00:00"
+    },
+    {
+      "train_id": "2202",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "05:34:00",
+      "color": "#DD0067",
+      "dest_time": "05:46:00"
+    },
+    {
+      "train_id": "5504",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "JAKARTAKOTA-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "05:34:00",
+      "color": "#0084D8",
+      "dest_time": "06:37:00"
+    },
+    {
+      "train_id": "2203A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "05:42:00",
+      "color": "#DD0067",
+      "dest_time": "05:46:00"
+    },
+    {
+      "train_id": "6002C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "05:50:00",
+      "color": "#0084D8",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "5506A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "05:55:00",
+      "color": "#0084D8",
+      "dest_time": "06:39:00"
+    },
+    {
+      "train_id": "2204",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "06:04:00",
+      "color": "#DD0067",
+      "dest_time": "06:16:00"
+    },
+    {
+      "train_id": "2205A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "06:12:00",
+      "color": "#DD0067",
+      "dest_time": "06:16:00"
+    },
+    {
+      "train_id": "5508A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:13:00",
+      "color": "#0084D8",
+      "dest_time": "06:57:00"
+    },
+    {
+      "train_id": "6004D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "06:16:00",
+      "color": "#0084D8",
+      "dest_time": "07:37:00"
+    },
+    {
+      "train_id": "5706C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "06:33:00",
+      "color": "#0084D8",
+      "dest_time": "07:03:00"
+    },
+    {
+      "train_id": "2206",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "06:34:00",
+      "color": "#DD0067",
+      "dest_time": "06:46:00"
+    },
+    {
+      "train_id": "2207A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "06:42:00",
+      "color": "#DD0067",
+      "dest_time": "06:46:00"
+    },
+    {
+      "train_id": "5510A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "06:44:00",
+      "color": "#0084D8",
+      "dest_time": "08:05:00"
+    },
+    {
+      "train_id": "6006C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "06:48:00",
+      "color": "#0084D8",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "5708C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "07:03:00",
+      "color": "#0084D8",
+      "dest_time": "07:33:00"
+    },
+    {
+      "train_id": "2208",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "07:04:00",
+      "color": "#DD0067",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "5512A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:09:00",
+      "color": "#0084D8",
+      "dest_time": "07:58:00"
+    },
+    {
+      "train_id": "2209A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "07:12:00",
+      "color": "#DD0067",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "6008C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:16:00",
+      "color": "#0084D8",
+      "dest_time": "08:22:00"
+    },
+    {
+      "train_id": "5514B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "07:29:00",
+      "color": "#0084D8",
+      "dest_time": "08:44:00"
+    },
+    {
+      "train_id": "2210",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "07:34:00",
+      "color": "#DD0067",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "2211A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "07:42:00",
+      "color": "#DD0067",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "5712C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "07:45:00",
+      "color": "#0084D8",
+      "dest_time": "08:18:00"
+    },
+    {
+      "train_id": "5516A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "07:50:00",
+      "color": "#0084D8",
+      "dest_time": "08:35:00"
+    },
+    {
+      "train_id": "2212",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "08:04:00",
+      "color": "#DD0067",
+      "dest_time": "08:16:00"
+    },
+    {
+      "train_id": "5714C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "08:04:00",
+      "color": "#0084D8",
+      "dest_time": "08:33:00"
+    },
+    {
+      "train_id": "2213A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "08:12:00",
+      "color": "#DD0067",
+      "dest_time": "08:16:00"
+    },
+    {
+      "train_id": "5518A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "08:13:00",
+      "color": "#0084D8",
+      "dest_time": "08:59:00"
+    },
+    {
+      "train_id": "5716C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "08:28:00",
+      "color": "#0084D8",
+      "dest_time": "08:56:00"
+    },
+    {
+      "train_id": "2214",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "08:34:00",
+      "color": "#DD0067",
+      "dest_time": "08:46:00"
+    },
+    {
+      "train_id": "2215A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "08:42:00",
+      "color": "#DD0067",
+      "dest_time": "08:46:00"
+    },
+    {
+      "train_id": "5718C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "08:47:00",
+      "color": "#0084D8",
+      "dest_time": "09:19:00"
+    },
+    {
+      "train_id": "5520A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "08:48:00",
+      "color": "#0084D8",
+      "dest_time": "09:52:00"
+    },
+    {
+      "train_id": "6016C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "09:03:00",
+      "color": "#0084D8",
+      "dest_time": "10:25:00"
+    },
+    {
+      "train_id": "2216",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "09:04:00",
+      "color": "#DD0067",
+      "dest_time": "09:16:00"
+    },
+    {
+      "train_id": "5522B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:07:00",
+      "color": "#0084D8",
+      "dest_time": "10:17:00"
+    },
+    {
+      "train_id": "2217A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "09:12:00",
+      "color": "#DD0067",
+      "dest_time": "09:16:00"
+    },
+    {
+      "train_id": "5524A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:22:00",
+      "color": "#0084D8",
+      "dest_time": "10:31:00"
+    },
+    {
+      "train_id": "2218",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "09:34:00",
+      "color": "#DD0067",
+      "dest_time": "09:46:00"
+    },
+    {
+      "train_id": "5066C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "09:34:00",
+      "color": "#0084D8",
+      "dest_time": "10:34:00"
+    },
+    {
+      "train_id": "2219A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "09:42:00",
+      "color": "#DD0067",
+      "dest_time": "09:46:00"
+    },
+    {
+      "train_id": "5526A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "09:45:00",
+      "color": "#0084D8",
+      "dest_time": "10:55:00"
+    },
+    {
+      "train_id": "6018D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-TAMBUN",
+      "dest": "TAMBUN",
+      "time_est": "09:45:00",
+      "color": "#0084D8",
+      "dest_time": "10:56:00"
+    },
+    {
+      "train_id": "2220",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "10:04:00",
+      "color": "#DD0067",
+      "dest_time": "10:16:00"
+    },
+    {
+      "train_id": "5072C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:08:00",
+      "color": "#0084D8",
+      "dest_time": "11:10:00"
+    },
+    {
+      "train_id": "5528A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:10:00",
+      "color": "#0084D8",
+      "dest_time": "10:56:00"
+    },
+    {
+      "train_id": "2221A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "10:12:00",
+      "color": "#DD0067",
+      "dest_time": "10:16:00"
+    },
+    {
+      "train_id": "6020C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "10:17:00",
+      "color": "#0084D8",
+      "dest_time": "11:42:00"
+    },
+    {
+      "train_id": "5074C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "10:31:00",
+      "color": "#0084D8",
+      "dest_time": "11:58:00"
+    },
+    {
+      "train_id": "2222",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "10:34:00",
+      "color": "#DD0067",
+      "dest_time": "10:46:00"
+    },
+    {
+      "train_id": "6022C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:41:00",
+      "color": "#0084D8",
+      "dest_time": "11:41:00"
+    },
+    {
+      "train_id": "2223A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "10:42:00",
+      "color": "#DD0067",
+      "dest_time": "10:46:00"
+    },
+    {
+      "train_id": "5530A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "10:45:00",
+      "color": "#0084D8",
+      "dest_time": "11:28:00"
+    },
+    {
+      "train_id": "2224",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "11:04:00",
+      "color": "#DD0067",
+      "dest_time": "11:16:00"
+    },
+    {
+      "train_id": "5532A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "11:09:00",
+      "color": "#0084D8",
+      "dest_time": "12:13:00"
+    },
+    {
+      "train_id": "5084D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "11:10:00",
+      "color": "#0084D8",
+      "dest_time": "12:36:00"
+    },
+    {
+      "train_id": "2225A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "11:12:00",
+      "color": "#DD0067",
+      "dest_time": "11:16:00"
+    },
+    {
+      "train_id": "6024D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "11:17:00",
+      "color": "#0084D8",
+      "dest_time": "12:49:00"
+    },
+    {
+      "train_id": "5534A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:25:00",
+      "color": "#0084D8",
+      "dest_time": "12:08:00"
+    },
+    {
+      "train_id": "2226",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "11:34:00",
+      "color": "#DD0067",
+      "dest_time": "11:46:00"
+    },
+    {
+      "train_id": "6026D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:36:00",
+      "color": "#0084D8",
+      "dest_time": "12:41:00"
+    },
+    {
+      "train_id": "2227A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "11:42:00",
+      "color": "#DD0067",
+      "dest_time": "11:46:00"
+    },
+    {
+      "train_id": "5536A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "11:45:00",
+      "color": "#0084D8",
+      "dest_time": "12:32:00"
+    },
+    {
+      "train_id": "2228",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "12:04:00",
+      "color": "#DD0067",
+      "dest_time": "12:16:00"
+    },
+    {
+      "train_id": "6028D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "12:11:00",
+      "color": "#0084D8",
+      "dest_time": "13:35:00"
+    },
+    {
+      "train_id": "2229A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "12:12:00",
+      "color": "#DD0067",
+      "dest_time": "12:16:00"
+    },
+    {
+      "train_id": "5092C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "12:16:00",
+      "color": "#0084D8",
+      "dest_time": "13:16:00"
+    },
+    {
+      "train_id": "5538A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "12:21:00",
+      "color": "#0084D8",
+      "dest_time": "13:25:00"
+    },
+    {
+      "train_id": "2230",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "12:34:00",
+      "color": "#DD0067",
+      "dest_time": "12:46:00"
+    },
+    {
+      "train_id": "6030C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "12:37:00",
+      "color": "#0084D8",
+      "dest_time": "13:08:00"
+    },
+    {
+      "train_id": "2231A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "12:42:00",
+      "color": "#DD0067",
+      "dest_time": "12:46:00"
+    },
+    {
+      "train_id": "5540A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "12:47:00",
+      "color": "#0084D8",
+      "dest_time": "13:29:00"
+    },
+    {
+      "train_id": "2232",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "13:04:00",
+      "color": "#DD0067",
+      "dest_time": "13:16:00"
+    },
+    {
+      "train_id": "6032C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:11:00",
+      "color": "#0084D8",
+      "dest_time": "14:10:00"
+    },
+    {
+      "train_id": "2233A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "13:12:00",
+      "color": "#DD0067",
+      "dest_time": "13:16:00"
+    },
+    {
+      "train_id": "5542B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:12:00",
+      "color": "#0084D8",
+      "dest_time": "13:53:00"
+    },
+    {
+      "train_id": "6034C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:20:00",
+      "color": "#0084D8",
+      "dest_time": "14:21:00"
+    },
+    {
+      "train_id": "2234",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "13:34:00",
+      "color": "#DD0067",
+      "dest_time": "13:46:00"
+    },
+    {
+      "train_id": "6036D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "13:36:00",
+      "color": "#0084D8",
+      "dest_time": "15:03:00"
+    },
+    {
+      "train_id": "2235A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "13:42:00",
+      "color": "#DD0067",
+      "dest_time": "13:46:00"
+    },
+    {
+      "train_id": "5544A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "13:45:00",
+      "color": "#0084D8",
+      "dest_time": "14:33:00"
+    },
+    {
+      "train_id": "6038C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "13:54:00",
+      "color": "#0084D8",
+      "dest_time": "15:20:00"
+    },
+    {
+      "train_id": "5108C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:02:00",
+      "color": "#0084D8",
+      "dest_time": "15:02:00"
+    },
+    {
+      "train_id": "2236",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "14:04:00",
+      "color": "#DD0067",
+      "dest_time": "14:16:00"
+    },
+    {
+      "train_id": "2237A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "14:12:00",
+      "color": "#DD0067",
+      "dest_time": "14:16:00"
+    },
+    {
+      "train_id": "5112C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "14:20:00",
+      "color": "#0084D8",
+      "dest_time": "15:41:00"
+    },
+    {
+      "train_id": "5546A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "14:24:00",
+      "color": "#0084D8",
+      "dest_time": "15:29:00"
+    },
+    {
+      "train_id": "6040C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:26:00",
+      "color": "#0084D8",
+      "dest_time": "15:26:00"
+    },
+    {
+      "train_id": "2238",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "14:34:00",
+      "color": "#DD0067",
+      "dest_time": "14:46:00"
+    },
+    {
+      "train_id": "2239A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "14:42:00",
+      "color": "#DD0067",
+      "dest_time": "14:46:00"
+    },
+    {
+      "train_id": "5548A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:52:00",
+      "color": "#0084D8",
+      "dest_time": "15:40:00"
+    },
+    {
+      "train_id": "6042C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "14:53:00",
+      "color": "#0084D8",
+      "dest_time": "15:52:00"
+    },
+    {
+      "train_id": "2240",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "15:04:00",
+      "color": "#DD0067",
+      "dest_time": "15:16:00"
+    },
+    {
+      "train_id": "5122D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "15:10:00",
+      "color": "#0084D8",
+      "dest_time": "16:37:00"
+    },
+    {
+      "train_id": "2241A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "15:12:00",
+      "color": "#DD0067",
+      "dest_time": "15:16:00"
+    },
+    {
+      "train_id": "6044C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:16:00",
+      "color": "#0084D8",
+      "dest_time": "16:28:00"
+    },
+    {
+      "train_id": "5550A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "15:18:00",
+      "color": "#0084D8",
+      "dest_time": "16:03:00"
+    },
+    {
+      "train_id": "5730C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "15:28:00",
+      "color": "#0084D8",
+      "dest_time": "15:59:00"
+    },
+    {
+      "train_id": "2242",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "15:34:00",
+      "color": "#DD0067",
+      "dest_time": "15:46:00"
+    },
+    {
+      "train_id": "5552A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "15:39:00",
+      "color": "#0084D8",
+      "dest_time": "16:45:00"
+    },
+    {
+      "train_id": "6048C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "15:41:00",
+      "color": "#0084D8",
+      "dest_time": "17:06:00"
+    },
+    {
+      "train_id": "2243A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "15:42:00",
+      "color": "#DD0067",
+      "dest_time": "15:46:00"
+    },
+    {
+      "train_id": "2244",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "16:04:00",
+      "color": "#DD0067",
+      "dest_time": "16:16:00"
+    },
+    {
+      "train_id": "5554A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:08:00",
+      "color": "#0084D8",
+      "dest_time": "16:53:00"
+    },
+    {
+      "train_id": "2245A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "16:12:00",
+      "color": "#DD0067",
+      "dest_time": "16:16:00"
+    },
+    {
+      "train_id": "6050D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:17:00",
+      "color": "#0084D8",
+      "dest_time": "17:18:00"
+    },
+    {
+      "train_id": "5732C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "16:32:00",
+      "color": "#0084D8",
+      "dest_time": "17:03:00"
+    },
+    {
+      "train_id": "2246",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "16:34:00",
+      "color": "#DD0067",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "5556A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:41:00",
+      "color": "#0084D8",
+      "dest_time": "17:25:00"
+    },
+    {
+      "train_id": "2247A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "16:42:00",
+      "color": "#DD0067",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "6052D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "16:45:00",
+      "color": "#0084D8",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "5138C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:02:00",
+      "color": "#0084D8",
+      "dest_time": "18:04:00"
+    },
+    {
+      "train_id": "2248",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "17:04:00",
+      "color": "#DD0067",
+      "dest_time": "17:16:00"
+    },
+    {
+      "train_id": "6054C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "17:09:00",
+      "color": "#0084D8",
+      "dest_time": "18:35:00"
+    },
+    {
+      "train_id": "2249A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "17:12:00",
+      "color": "#DD0067",
+      "dest_time": "17:16:00"
+    },
+    {
+      "train_id": "5558A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:13:00",
+      "color": "#0084D8",
+      "dest_time": "17:56:00"
+    },
+    {
+      "train_id": "6056C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "17:26:00",
+      "color": "#0084D8",
+      "dest_time": "18:56:00"
+    },
+    {
+      "train_id": "2250",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "17:34:00",
+      "color": "#DD0067",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "5146D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-TAMBUN",
+      "dest": "TAMBUN",
+      "time_est": "17:39:00",
+      "color": "#0084D8",
+      "dest_time": "18:50:00"
+    },
+    {
+      "train_id": "2251A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "17:42:00",
+      "color": "#DD0067",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "6058C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:48:00",
+      "color": "#0084D8",
+      "dest_time": "18:51:00"
+    },
+    {
+      "train_id": "5560A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "17:49:00",
+      "color": "#0084D8",
+      "dest_time": "18:32:00"
+    },
+    {
+      "train_id": "2252",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "18:04:00",
+      "color": "#DD0067",
+      "dest_time": "18:16:00"
+    },
+    {
+      "train_id": "5150C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:09:00",
+      "color": "#0084D8",
+      "dest_time": "19:11:00"
+    },
+    {
+      "train_id": "2253A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "18:12:00",
+      "color": "#DD0067",
+      "dest_time": "18:16:00"
+    },
+    {
+      "train_id": "6060C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "18:17:00",
+      "color": "#0084D8",
+      "dest_time": "19:49:00"
+    },
+    {
+      "train_id": "5562A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "18:21:00",
+      "color": "#0084D8",
+      "dest_time": "19:25:00"
+    },
+    {
+      "train_id": "6062C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:33:00",
+      "color": "#0084D8",
+      "dest_time": "19:31:00"
+    },
+    {
+      "train_id": "2254",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "18:34:00",
+      "color": "#DD0067",
+      "dest_time": "18:46:00"
+    },
+    {
+      "train_id": "5152C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:39:00",
+      "color": "#0084D8",
+      "dest_time": "19:45:00"
+    },
+    {
+      "train_id": "2255A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "18:42:00",
+      "color": "#DD0067",
+      "dest_time": "18:46:00"
+    },
+    {
+      "train_id": "5154C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "18:51:00",
+      "color": "#0084D8",
+      "dest_time": "19:50:00"
+    },
+    {
+      "train_id": "5564B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "18:53:00",
+      "color": "#0084D8",
+      "dest_time": "20:01:00"
+    },
+    {
+      "train_id": "5738C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "19:02:00",
+      "color": "#0084D8",
+      "dest_time": "19:33:00"
+    },
+    {
+      "train_id": "2256",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "19:04:00",
+      "color": "#DD0067",
+      "dest_time": "19:16:00"
+    },
+    {
+      "train_id": "5158C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "19:07:00",
+      "color": "#0084D8",
+      "dest_time": "20:42:00"
+    },
+    {
+      "train_id": "2257A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "19:12:00",
+      "color": "#DD0067",
+      "dest_time": "19:16:00"
+    },
+    {
+      "train_id": "5566B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:24:00",
+      "color": "#0084D8",
+      "dest_time": "20:07:00"
+    },
+    {
+      "train_id": "5160C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "19:25:00",
+      "color": "#0084D8",
+      "dest_time": "20:26:00"
+    },
+    {
+      "train_id": "2258",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "19:34:00",
+      "color": "#DD0067",
+      "dest_time": "19:46:00"
+    },
+    {
+      "train_id": "6066C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "19:38:00",
+      "color": "#0084D8",
+      "dest_time": "21:13:00"
+    },
+    {
+      "train_id": "2259A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "19:42:00",
+      "color": "#DD0067",
+      "dest_time": "19:46:00"
+    },
+    {
+      "train_id": "5568B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "19:47:00",
+      "color": "#0084D8",
+      "dest_time": "20:58:00"
+    },
+    {
+      "train_id": "5742D",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "20:01:00",
+      "color": "#0084D8",
+      "dest_time": "20:29:00"
+    },
+    {
+      "train_id": "2260",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "20:04:00",
+      "color": "#DD0067",
+      "dest_time": "20:16:00"
+    },
+    {
+      "train_id": "5570A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:08:00",
+      "color": "#0084D8",
+      "dest_time": "20:53:00"
+    },
+    {
+      "train_id": "2261A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "20:12:00",
+      "color": "#DD0067",
+      "dest_time": "20:16:00"
+    },
+    {
+      "train_id": "5572A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:23:00",
+      "color": "#0084D8",
+      "dest_time": "21:07:00"
+    },
+    {
+      "train_id": "6070C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:24:00",
+      "color": "#0084D8",
+      "dest_time": "21:25:00"
+    },
+    {
+      "train_id": "2262",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "JAKARTAKOTA-TANJUNGPRIUK",
+      "dest": "TANJUNGPRIUK",
+      "time_est": "20:34:00",
+      "color": "#DD0067",
+      "dest_time": "20:46:00"
+    },
+    {
+      "train_id": "5574A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "20:38:00",
+      "color": "#0084D8",
+      "dest_time": "21:21:00"
+    },
+    {
+      "train_id": "2263A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "20:42:00",
+      "color": "#DD0067",
+      "dest_time": "20:46:00"
+    },
+    {
+      "train_id": "5576A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "20:48:00",
+      "color": "#0084D8",
+      "dest_time": "22:03:00"
+    },
+    {
+      "train_id": "5746C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-MANGGARAI",
+      "dest": "MANGGARAI",
+      "time_est": "20:53:00",
+      "color": "#0084D8",
+      "dest_time": "21:25:00"
+    },
+    {
+      "train_id": "6074C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:02:00",
+      "color": "#0084D8",
+      "dest_time": "22:02:00"
+    },
+    {
+      "train_id": "2265A",
+      "ka_name": "COMMUTER LINE TANJUNGPRIUK",
+      "route_name": "TANJUNGPRIUK-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "21:12:00",
+      "color": "#DD0067",
+      "dest_time": "21:16:00"
+    },
+    {
+      "train_id": "5578B",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG",
+      "dest": "CIKARANG",
+      "time_est": "21:13:00",
+      "color": "#0084D8",
+      "dest_time": "22:26:00"
+    },
+    {
+      "train_id": "6075",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "CIKARANG-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "21:38:00",
+      "color": "#0084D8",
+      "dest_time": "21:43:00"
+    },
+    {
+      "train_id": "5182C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "21:49:00",
+      "color": "#0084D8",
+      "dest_time": "23:09:00"
+    },
+    {
+      "train_id": "5580A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "21:49:00",
+      "color": "#0084D8",
+      "dest_time": "22:31:00"
+    },
+    {
+      "train_id": "6078C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "21:56:00",
+      "color": "#0084D8",
+      "dest_time": "23:16:00"
+    },
+    {
+      "train_id": "5582A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "22:18:00",
+      "color": "#0084D8",
+      "dest_time": "23:01:00"
+    },
+    {
+      "train_id": "6080C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "22:32:00",
+      "color": "#0084D8",
+      "dest_time": "00:05:00"
+    },
+    {
+      "train_id": "5584A",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-BEKASI",
+      "dest": "BEKASI",
+      "time_est": "22:43:00",
+      "color": "#0084D8",
+      "dest_time": "23:26:00"
+    },
+    {
+      "train_id": "6082C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "22:58:00",
+      "color": "#0084D8",
+      "dest_time": "00:23:00"
+    },
+    {
+      "train_id": "5194C",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "KAMPUNGBANDAN-CIKARANG VIA MRI",
+      "dest": "CIKARANG VIA MRI",
+      "time_est": "23:27:00",
+      "color": "#0084D8",
+      "dest_time": "00:47:00"
+    },
+    {
+      "train_id": "6083",
+      "ka_name": "COMMUTER LINE CIKARANG",
+      "route_name": "BEKASI-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "23:32:00",
+      "color": "#0084D8",
+      "dest_time": "23:37:00"
+    }
+  ]
+}

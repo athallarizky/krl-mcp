@@ -1,0 +1,293 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "1500",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "DEPOK-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "04:28:00",
+      "color": "#F76114",
+      "dest_time": "04:47:00"
+    },
+    {
+      "train_id": "1501",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "05:09:00",
+      "color": "#E30A16",
+      "dest_time": "06:24:00"
+    },
+    {
+      "train_id": "1502",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "DEPOK-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "05:23:00",
+      "color": "#F76114",
+      "dest_time": "05:42:00"
+    },
+    {
+      "train_id": "1503",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "06:08:00",
+      "color": "#E30A16",
+      "dest_time": "07:27:00"
+    },
+    {
+      "train_id": "1504",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "06:29:00",
+      "color": "#E30A16",
+      "dest_time": "06:48:00"
+    },
+    {
+      "train_id": "1505",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "07:09:00",
+      "color": "#E30A16",
+      "dest_time": "08:29:00"
+    },
+    {
+      "train_id": "1506",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "07:24:00",
+      "color": "#E30A16",
+      "dest_time": "07:43:00"
+    },
+    {
+      "train_id": "1507",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "08:03:00",
+      "color": "#E30A16",
+      "dest_time": "09:18:00"
+    },
+    {
+      "train_id": "1508",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "08:48:00",
+      "color": "#E30A16",
+      "dest_time": "09:07:00"
+    },
+    {
+      "train_id": "1509",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "09:29:00",
+      "color": "#E30A16",
+      "dest_time": "10:42:00"
+    },
+    {
+      "train_id": "1510",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "09:53:00",
+      "color": "#E30A16",
+      "dest_time": "10:12:00"
+    },
+    {
+      "train_id": "1511",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "10:33:00",
+      "color": "#E30A16",
+      "dest_time": "11:47:00"
+    },
+    {
+      "train_id": "1512",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "10:46:00",
+      "color": "#E30A16",
+      "dest_time": "11:05:00"
+    },
+    {
+      "train_id": "1513",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "11:34:00",
+      "color": "#E30A16",
+      "dest_time": "12:48:00"
+    },
+    {
+      "train_id": "1514",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "12:03:00",
+      "color": "#E30A16",
+      "dest_time": "12:22:00"
+    },
+    {
+      "train_id": "1515A",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "12:49:00",
+      "color": "#E30A16",
+      "dest_time": "14:02:00"
+    },
+    {
+      "train_id": "1516",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "13:09:00",
+      "color": "#E30A16",
+      "dest_time": "13:26:00"
+    },
+    {
+      "train_id": "1517",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "13:58:00",
+      "color": "#E30A16",
+      "dest_time": "15:12:00"
+    },
+    {
+      "train_id": "1518",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "14:17:00",
+      "color": "#E30A16",
+      "dest_time": "14:36:00"
+    },
+    {
+      "train_id": "1519",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "15:03:00",
+      "color": "#E30A16",
+      "dest_time": "16:19:00"
+    },
+    {
+      "train_id": "1520",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "15:24:00",
+      "color": "#E30A16",
+      "dest_time": "15:44:00"
+    },
+    {
+      "train_id": "1521",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "16:15:00",
+      "color": "#E30A16",
+      "dest_time": "17:32:00"
+    },
+    {
+      "train_id": "1522",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "16:29:00",
+      "color": "#E30A16",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "1523",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "17:08:00",
+      "color": "#E30A16",
+      "dest_time": "18:21:00"
+    },
+    {
+      "train_id": "1524",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "17:35:00",
+      "color": "#E30A16",
+      "dest_time": "17:53:00"
+    },
+    {
+      "train_id": "1525",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "18:15:00",
+      "color": "#E30A16",
+      "dest_time": "19:32:00"
+    },
+    {
+      "train_id": "1526",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "18:53:00",
+      "color": "#E30A16",
+      "dest_time": "19:10:00"
+    },
+    {
+      "train_id": "1527",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "19:30:00",
+      "color": "#E30A16",
+      "dest_time": "20:42:00"
+    },
+    {
+      "train_id": "1528",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "20:02:00",
+      "color": "#E30A16",
+      "dest_time": "20:20:00"
+    },
+    {
+      "train_id": "1529",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "20:40:00",
+      "color": "#E30A16",
+      "dest_time": "21:54:00"
+    },
+    {
+      "train_id": "1530",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "JAKARTAKOTA-NAMBO",
+      "dest": "NAMBO",
+      "time_est": "21:22:00",
+      "color": "#E30A16",
+      "dest_time": "21:40:00"
+    },
+    {
+      "train_id": "1531",
+      "ka_name": "COMMUTER LINE BOGOR",
+      "route_name": "NAMBO-JAKARTAKOTA",
+      "dest": "JAKARTAKOTA",
+      "time_est": "22:09:00",
+      "color": "#E30A16",
+      "dest_time": "23:22:00"
+    }
+  ]
+}

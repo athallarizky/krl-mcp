@@ -1,0 +1,11 @@
+{
+  "timetable_version": 2,
+  "snapshot_id": 6,
+  "snapshot_date": "2026-10-11",
+  "day_type": "sunday",
+  "region_scope": "jabodetabek",
+  "station_master_hash": "1a8b1bc1b79ec7ec81ee5bacf17fe7644d381404663415de6df56ca9829235fd",
+  "board_response_hash": "20d17b4a57fc10a984084fb5ae744001a678f16ba6b17be74a7a9855fc2362a6",
+  "fetched_at": "2026-10-11T15:09:17Z",
+  "status": "complete"
+}

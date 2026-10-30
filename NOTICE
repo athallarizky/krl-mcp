@@ -1,0 +1,15 @@
+NOTICE — bundled data licenses
+
+The files under data/ are NOT covered by the MIT license of the code.
+
+Schedule and station data: open-krl/pipeline raw snapshots and GTFS release
+(https://github.com/open-krl/pipeline) — © open-krl contributors, licensed
+under Creative Commons Attribution 4.0 (CC-BY-4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Station coordinates for the Yogyakarta–Solo line
+(data/coords/osm-yogya-solo-corridor.tsv): extracted from OpenStreetMap via
+the Overpass API — © OpenStreetMap contributors, ODbL 1.0.
+https://www.openstreetmap.org/copyright
+
+If you use this project, keep the attribution above.

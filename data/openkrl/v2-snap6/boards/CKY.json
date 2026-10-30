@@ -1,0 +1,1040 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "1814D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "00:17:00",
+      "color": "#16812B",
+      "dest_time": "00:42:00"
+    },
+    {
+      "train_id": "1816D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "00:35:00",
+      "color": "#16812B",
+      "dest_time": "00:59:00"
+    },
+    {
+      "train_id": "1621D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "04:21:30",
+      "color": "#16812B",
+      "dest_time": "05:36:00"
+    },
+    {
+      "train_id": "1602D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "SERPONG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "04:38:00",
+      "color": "#16812B",
+      "dest_time": "05:02:00"
+    },
+    {
+      "train_id": "1625D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "04:39:30",
+      "color": "#16812B",
+      "dest_time": "05:57:00"
+    },
+    {
+      "train_id": "1629D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "04:58:30",
+      "color": "#16812B",
+      "dest_time": "06:16:00"
+    },
+    {
+      "train_id": "1606A",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "PARUNGPANJANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "04:59:00",
+      "color": "#93ca3e",
+      "dest_time": "05:23:00"
+    },
+    {
+      "train_id": "1633D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "05:19:30",
+      "color": "#16812B",
+      "dest_time": "06:37:00"
+    },
+    {
+      "train_id": "1637D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "05:38:30",
+      "color": "#16812B",
+      "dest_time": "06:56:00"
+    },
+    {
+      "train_id": "1610D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "SERPONG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "05:39:00",
+      "color": "#16812B",
+      "dest_time": "06:03:00"
+    },
+    {
+      "train_id": "1641D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "06:02:30",
+      "color": "#16812B",
+      "dest_time": "07:19:00"
+    },
+    {
+      "train_id": "1614D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "06:06:00",
+      "color": "#16812B",
+      "dest_time": "06:30:00"
+    },
+    {
+      "train_id": "1645D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "06:21:30",
+      "color": "#16812B",
+      "dest_time": "07:40:00"
+    },
+    {
+      "train_id": "1616D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "06:27:00",
+      "color": "#16812B",
+      "dest_time": "06:51:00"
+    },
+    {
+      "train_id": "1618D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "06:40:00",
+      "color": "#16812B",
+      "dest_time": "07:06:00"
+    },
+    {
+      "train_id": "1649D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "06:40:30",
+      "color": "#16812B",
+      "dest_time": "07:58:00"
+    },
+    {
+      "train_id": "1653D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "07:01:30",
+      "color": "#16812B",
+      "dest_time": "08:20:00"
+    },
+    {
+      "train_id": "1622D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "07:04:00",
+      "color": "#16812B",
+      "dest_time": "07:28:00"
+    },
+    {
+      "train_id": "1657D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "07:22:30",
+      "color": "#16812B",
+      "dest_time": "08:39:00"
+    },
+    {
+      "train_id": "1626D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "07:23:00",
+      "color": "#16812B",
+      "dest_time": "07:47:00"
+    },
+    {
+      "train_id": "1630D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "07:43:00",
+      "color": "#16812B",
+      "dest_time": "08:08:00"
+    },
+    {
+      "train_id": "1661D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "07:43:30",
+      "color": "#16812B",
+      "dest_time": "08:58:00"
+    },
+    {
+      "train_id": "1665D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "08:03:30",
+      "color": "#16812B",
+      "dest_time": "09:20:00"
+    },
+    {
+      "train_id": "1634D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "08:05:00",
+      "color": "#16812B",
+      "dest_time": "08:30:00"
+    },
+    {
+      "train_id": "1669D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "08:23:30",
+      "color": "#16812B",
+      "dest_time": "09:41:00"
+    },
+    {
+      "train_id": "1638D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "08:26:00",
+      "color": "#16812B",
+      "dest_time": "08:50:00"
+    },
+    {
+      "train_id": "1673D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "08:42:30",
+      "color": "#16812B",
+      "dest_time": "09:58:00"
+    },
+    {
+      "train_id": "1642D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "08:45:00",
+      "color": "#16812B",
+      "dest_time": "09:10:00"
+    },
+    {
+      "train_id": "1677D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "09:04:30",
+      "color": "#16812B",
+      "dest_time": "10:21:00"
+    },
+    {
+      "train_id": "1646D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "09:06:00",
+      "color": "#16812B",
+      "dest_time": "09:30:00"
+    },
+    {
+      "train_id": "1681D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "09:25:30",
+      "color": "#16812B",
+      "dest_time": "10:43:00"
+    },
+    {
+      "train_id": "1650D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "09:27:00",
+      "color": "#16812B",
+      "dest_time": "09:52:00"
+    },
+    {
+      "train_id": "1654D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "09:48:00",
+      "color": "#16812B",
+      "dest_time": "10:12:00"
+    },
+    {
+      "train_id": "1685D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "09:48:30",
+      "color": "#16812B",
+      "dest_time": "11:06:00"
+    },
+    {
+      "train_id": "1689D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "10:01:30",
+      "color": "#16812B",
+      "dest_time": "11:17:00"
+    },
+    {
+      "train_id": "1658D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "10:05:00",
+      "color": "#16812B",
+      "dest_time": "10:30:00"
+    },
+    {
+      "train_id": "1662D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "10:27:00",
+      "color": "#16812B",
+      "dest_time": "10:51:00"
+    },
+    {
+      "train_id": "1693D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "10:27:30",
+      "color": "#16812B",
+      "dest_time": "11:43:00"
+    },
+    {
+      "train_id": "1666D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "10:47:00",
+      "color": "#16812B",
+      "dest_time": "11:11:00"
+    },
+    {
+      "train_id": "1701D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "10:48:30",
+      "color": "#16812B",
+      "dest_time": "12:07:00"
+    },
+    {
+      "train_id": "1670D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "11:07:00",
+      "color": "#16812B",
+      "dest_time": "11:31:00"
+    },
+    {
+      "train_id": "1703D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "11:22:30",
+      "color": "#16812B",
+      "dest_time": "12:37:00"
+    },
+    {
+      "train_id": "1674D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "11:28:00",
+      "color": "#16812B",
+      "dest_time": "11:52:00"
+    },
+    {
+      "train_id": "1707D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "11:47:30",
+      "color": "#16812B",
+      "dest_time": "13:06:00"
+    },
+    {
+      "train_id": "1678D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "11:49:00",
+      "color": "#16812B",
+      "dest_time": "12:13:00"
+    },
+    {
+      "train_id": "1711D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "12:02:30",
+      "color": "#16812B",
+      "dest_time": "13:17:00"
+    },
+    {
+      "train_id": "1682D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "12:09:00",
+      "color": "#16812B",
+      "dest_time": "12:35:00"
+    },
+    {
+      "train_id": "1715D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "12:23:30",
+      "color": "#16812B",
+      "dest_time": "13:39:00"
+    },
+    {
+      "train_id": "1686D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "12:33:00",
+      "color": "#16812B",
+      "dest_time": "12:57:00"
+    },
+    {
+      "train_id": "1690D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "12:48:00",
+      "color": "#16812B",
+      "dest_time": "13:14:00"
+    },
+    {
+      "train_id": "1719D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "12:52:30",
+      "color": "#16812B",
+      "dest_time": "14:07:00"
+    },
+    {
+      "train_id": "1694D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "13:10:00",
+      "color": "#16812B",
+      "dest_time": "13:35:00"
+    },
+    {
+      "train_id": "1723D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "13:12:30",
+      "color": "#16812B",
+      "dest_time": "14:27:00"
+    },
+    {
+      "train_id": "1725D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "13:32:30",
+      "color": "#16812B",
+      "dest_time": "14:49:00"
+    },
+    {
+      "train_id": "1702D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "13:34:00",
+      "color": "#16812B",
+      "dest_time": "13:59:00"
+    },
+    {
+      "train_id": "1729D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "13:52:30",
+      "color": "#16812B",
+      "dest_time": "15:07:00"
+    },
+    {
+      "train_id": "1704D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "14:05:00",
+      "color": "#16812B",
+      "dest_time": "14:29:00"
+    },
+    {
+      "train_id": "1733D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "14:18:30",
+      "color": "#16812B",
+      "dest_time": "15:37:00"
+    },
+    {
+      "train_id": "1708D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "14:32:00",
+      "color": "#16812B",
+      "dest_time": "14:57:00"
+    },
+    {
+      "train_id": "1737D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "14:32:30",
+      "color": "#16812B",
+      "dest_time": "15:47:00"
+    },
+    {
+      "train_id": "1712D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "14:48:00",
+      "color": "#16812B",
+      "dest_time": "15:12:00"
+    },
+    {
+      "train_id": "1741D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "14:53:30",
+      "color": "#16812B",
+      "dest_time": "16:08:00"
+    },
+    {
+      "train_id": "1716D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "15:09:00",
+      "color": "#16812B",
+      "dest_time": "15:34:00"
+    },
+    {
+      "train_id": "1745D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "15:12:30",
+      "color": "#16812B",
+      "dest_time": "16:28:00"
+    },
+    {
+      "train_id": "1718D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "15:27:00",
+      "color": "#16812B",
+      "dest_time": "15:53:00"
+    },
+    {
+      "train_id": "1749D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "15:30:30",
+      "color": "#16812B",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "1722D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "15:47:00",
+      "color": "#16812B",
+      "dest_time": "16:12:00"
+    },
+    {
+      "train_id": "1753D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "15:51:30",
+      "color": "#16812B",
+      "dest_time": "17:07:00"
+    },
+    {
+      "train_id": "1724D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "16:00:00",
+      "color": "#16812B",
+      "dest_time": "16:24:00"
+    },
+    {
+      "train_id": "1757D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "16:11:30",
+      "color": "#16812B",
+      "dest_time": "17:26:00"
+    },
+    {
+      "train_id": "1728D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "16:25:00",
+      "color": "#16812B",
+      "dest_time": "16:49:00"
+    },
+    {
+      "train_id": "1761D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "16:30:30",
+      "color": "#16812B",
+      "dest_time": "17:47:00"
+    },
+    {
+      "train_id": "1732D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "16:49:00",
+      "color": "#16812B",
+      "dest_time": "17:13:00"
+    },
+    {
+      "train_id": "1765D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "16:52:30",
+      "color": "#16812B",
+      "dest_time": "18:09:00"
+    },
+    {
+      "train_id": "1736D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "17:02:00",
+      "color": "#16812B",
+      "dest_time": "17:26:00"
+    },
+    {
+      "train_id": "1769D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "17:15:30",
+      "color": "#16812B",
+      "dest_time": "18:36:00"
+    },
+    {
+      "train_id": "1740D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "17:27:00",
+      "color": "#16812B",
+      "dest_time": "17:52:00"
+    },
+    {
+      "train_id": "1771D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "17:27:30",
+      "color": "#16812B",
+      "dest_time": "18:43:00"
+    },
+    {
+      "train_id": "1744D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "17:47:00",
+      "color": "#16812B",
+      "dest_time": "18:12:00"
+    },
+    {
+      "train_id": "1775D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "17:50:30",
+      "color": "#16812B",
+      "dest_time": "19:06:00"
+    },
+    {
+      "train_id": "1748D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "18:08:00",
+      "color": "#16812B",
+      "dest_time": "18:32:00"
+    },
+    {
+      "train_id": "1779D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "18:10:30",
+      "color": "#16812B",
+      "dest_time": "19:25:00"
+    },
+    {
+      "train_id": "1752D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "18:26:00",
+      "color": "#16812B",
+      "dest_time": "18:52:00"
+    },
+    {
+      "train_id": "1783D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "18:30:30",
+      "color": "#16812B",
+      "dest_time": "19:45:00"
+    },
+    {
+      "train_id": "1756D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "18:46:00",
+      "color": "#16812B",
+      "dest_time": "19:10:00"
+    },
+    {
+      "train_id": "1787D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "18:51:30",
+      "color": "#16812B",
+      "dest_time": "20:08:00"
+    },
+    {
+      "train_id": "1760D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "19:06:00",
+      "color": "#16812B",
+      "dest_time": "19:30:00"
+    },
+    {
+      "train_id": "1791D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "19:11:30",
+      "color": "#16812B",
+      "dest_time": "20:29:00"
+    },
+    {
+      "train_id": "1764D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "19:27:00",
+      "color": "#16812B",
+      "dest_time": "19:51:00"
+    },
+    {
+      "train_id": "1795D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "19:42:30",
+      "color": "#16812B",
+      "dest_time": "20:58:00"
+    },
+    {
+      "train_id": "1768D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "19:46:00",
+      "color": "#16812B",
+      "dest_time": "20:10:00"
+    },
+    {
+      "train_id": "1799D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "20:03:30",
+      "color": "#16812B",
+      "dest_time": "21:20:00"
+    },
+    {
+      "train_id": "1770D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "20:09:00",
+      "color": "#16812B",
+      "dest_time": "20:33:00"
+    },
+    {
+      "train_id": "1801D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "20:25:30",
+      "color": "#16812B",
+      "dest_time": "21:44:00"
+    },
+    {
+      "train_id": "1774D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "20:26:00",
+      "color": "#16812B",
+      "dest_time": "20:50:00"
+    },
+    {
+      "train_id": "1805D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "20:47:30",
+      "color": "#16812B",
+      "dest_time": "22:06:00"
+    },
+    {
+      "train_id": "1778D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "20:48:00",
+      "color": "#16812B",
+      "dest_time": "21:12:00"
+    },
+    {
+      "train_id": "1782D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "21:06:00",
+      "color": "#16812B",
+      "dest_time": "21:31:00"
+    },
+    {
+      "train_id": "1809D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "21:10:30",
+      "color": "#16812B",
+      "dest_time": "22:25:00"
+    },
+    {
+      "train_id": "1786D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "21:28:00",
+      "color": "#16812B",
+      "dest_time": "21:52:00"
+    },
+    {
+      "train_id": "1813D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "21:31:30",
+      "color": "#16812B",
+      "dest_time": "22:48:00"
+    },
+    {
+      "train_id": "1790D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "21:42:00",
+      "color": "#16812B",
+      "dest_time": "22:06:00"
+    },
+    {
+      "train_id": "1815D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "21:43:30",
+      "color": "#16812B",
+      "dest_time": "22:59:00"
+    },
+    {
+      "train_id": "1817D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-SERPONG",
+      "dest": "SERPONG",
+      "time_est": "21:58:30",
+      "color": "#16812B",
+      "dest_time": "22:39:00"
+    },
+    {
+      "train_id": "1792D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "22:08:00",
+      "color": "#16812B",
+      "dest_time": "22:32:00"
+    },
+    {
+      "train_id": "1819D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-TANAHABANG",
+      "dest": "TANAHABANG",
+      "time_est": "22:26:30",
+      "color": "#16812B",
+      "dest_time": "23:43:00"
+    },
+    {
+      "train_id": "1794D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "22:29:00",
+      "color": "#16812B",
+      "dest_time": "22:53:00"
+    },
+    {
+      "train_id": "1821D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-SERPONG",
+      "dest": "SERPONG",
+      "time_est": "22:43:30",
+      "color": "#16812B",
+      "dest_time": "23:24:00"
+    },
+    {
+      "train_id": "1798D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "22:56:00",
+      "color": "#16812B",
+      "dest_time": "23:20:00"
+    },
+    {
+      "train_id": "1823",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-PARUNGPANJANG",
+      "dest": "PARUNGPANJANG",
+      "time_est": "22:58:30",
+      "color": "#93ca3e",
+      "dest_time": "23:24:00"
+    },
+    {
+      "train_id": "1802D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "23:14:00",
+      "color": "#16812B",
+      "dest_time": "23:38:00"
+    },
+    {
+      "train_id": "1825D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-SERPONG",
+      "dest": "SERPONG",
+      "time_est": "23:18:30",
+      "color": "#16812B",
+      "dest_time": "23:59:00"
+    },
+    {
+      "train_id": "1804D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "23:25:00",
+      "color": "#16812B",
+      "dest_time": "23:50:00"
+    },
+    {
+      "train_id": "1810D",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "TANAHABANG-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "23:54:00",
+      "color": "#16812B",
+      "dest_time": "00:18:00"
+    },
+    {
+      "train_id": "1831",
+      "ka_name": "COMMUTER LINE RANGKASBITUNG",
+      "route_name": "RANGKASBITUNG-PARUNGPANJANG",
+      "dest": "PARUNGPANJANG",
+      "time_est": "23:55:30",
+      "color": "#93ca3e",
+      "dest_time": "00:21:00"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "1903A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "04:27:00",
+      "color": "#623814",
+      "dest_time": "04:53:00"
+    },
+    {
+      "train_id": "1905A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "04:50:00",
+      "color": "#623814",
+      "dest_time": "05:16:00"
+    },
+    {
+      "train_id": "1907A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "05:07:00",
+      "color": "#623814",
+      "dest_time": "05:33:00"
+    },
+    {
+      "train_id": "1909A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "05:20:00",
+      "color": "#623814",
+      "dest_time": "05:46:00"
+    },
+    {
+      "train_id": "1911A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "05:37:00",
+      "color": "#623814",
+      "dest_time": "06:03:00"
+    },
+    {
+      "train_id": "1913A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "05:50:00",
+      "color": "#623814",
+      "dest_time": "06:16:00"
+    },
+    {
+      "train_id": "1915A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "06:07:00",
+      "color": "#623814",
+      "dest_time": "06:33:00"
+    },
+    {
+      "train_id": "1917A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "06:20:00",
+      "color": "#623814",
+      "dest_time": "06:46:00"
+    },
+    {
+      "train_id": "1919A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "06:37:00",
+      "color": "#623814",
+      "dest_time": "07:03:00"
+    },
+    {
+      "train_id": "1921A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "06:50:00",
+      "color": "#623814",
+      "dest_time": "07:16:00"
+    },
+    {
+      "train_id": "1923A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "07:07:00",
+      "color": "#623814",
+      "dest_time": "07:33:00"
+    },
+    {
+      "train_id": "1925A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "07:20:00",
+      "color": "#623814",
+      "dest_time": "07:46:00"
+    },
+    {
+      "train_id": "1927A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "07:37:00",
+      "color": "#623814",
+      "dest_time": "08:03:00"
+    },
+    {
+      "train_id": "1929A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "07:50:00",
+      "color": "#623814",
+      "dest_time": "08:16:00"
+    },
+    {
+      "train_id": "1931A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "08:07:00",
+      "color": "#623814",
+      "dest_time": "08:33:00"
+    },
+    {
+      "train_id": "1933A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "08:20:00",
+      "color": "#623814",
+      "dest_time": "08:46:00"
+    },
+    {
+      "train_id": "1935A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "08:37:00",
+      "color": "#623814",
+      "dest_time": "09:03:00"
+    },
+    {
+      "train_id": "1937A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "08:50:00",
+      "color": "#623814",
+      "dest_time": "09:16:00"
+    },
+    {
+      "train_id": "1939A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "09:07:00",
+      "color": "#623814",
+      "dest_time": "09:33:00"
+    },
+    {
+      "train_id": "1941A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "09:20:00",
+      "color": "#623814",
+      "dest_time": "09:46:00"
+    },
+    {
+      "train_id": "1943A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "09:37:00",
+      "color": "#623814",
+      "dest_time": "10:03:00"
+    },
+    {
+      "train_id": "1945A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "09:50:00",
+      "color": "#623814",
+      "dest_time": "10:16:00"
+    },
+    {
+      "train_id": "1947A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "10:07:00",
+      "color": "#623814",
+      "dest_time": "10:33:00"
+    },
+    {
+      "train_id": "1949A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "10:37:00",
+      "color": "#623814",
+      "dest_time": "11:03:00"
+    },
+    {
+      "train_id": "1951A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "11:07:00",
+      "color": "#623814",
+      "dest_time": "11:33:00"
+    },
+    {
+      "train_id": "1953A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "11:37:00",
+      "color": "#623814",
+      "dest_time": "12:03:00"
+    },
+    {
+      "train_id": "1955A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "12:07:00",
+      "color": "#623814",
+      "dest_time": "12:33:00"
+    },
+    {
+      "train_id": "1957A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "12:37:00",
+      "color": "#623814",
+      "dest_time": "13:03:00"
+    },
+    {
+      "train_id": "1959A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "13:07:00",
+      "color": "#623814",
+      "dest_time": "13:33:00"
+    },
+    {
+      "train_id": "1961A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "13:37:00",
+      "color": "#623814",
+      "dest_time": "14:03:00"
+    },
+    {
+      "train_id": "1963A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "14:07:00",
+      "color": "#623814",
+      "dest_time": "14:33:00"
+    },
+    {
+      "train_id": "1965A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "14:37:00",
+      "color": "#623814",
+      "dest_time": "15:03:00"
+    },
+    {
+      "train_id": "1967A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "15:07:00",
+      "color": "#623814",
+      "dest_time": "15:33:00"
+    },
+    {
+      "train_id": "1969A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "15:20:00",
+      "color": "#623814",
+      "dest_time": "15:46:00"
+    },
+    {
+      "train_id": "1971A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "15:37:00",
+      "color": "#623814",
+      "dest_time": "16:03:00"
+    },
+    {
+      "train_id": "1973A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "15:50:00",
+      "color": "#623814",
+      "dest_time": "16:16:00"
+    },
+    {
+      "train_id": "1975A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "16:07:00",
+      "color": "#623814",
+      "dest_time": "16:33:00"
+    },
+    {
+      "train_id": "1977A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "16:20:00",
+      "color": "#623814",
+      "dest_time": "16:46:00"
+    },
+    {
+      "train_id": "1979A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "16:37:00",
+      "color": "#623814",
+      "dest_time": "17:03:00"
+    },
+    {
+      "train_id": "1981A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "16:50:00",
+      "color": "#623814",
+      "dest_time": "17:16:00"
+    },
+    {
+      "train_id": "1983A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "17:07:00",
+      "color": "#623814",
+      "dest_time": "17:33:00"
+    },
+    {
+      "train_id": "1985A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "17:20:00",
+      "color": "#623814",
+      "dest_time": "17:46:00"
+    },
+    {
+      "train_id": "1987A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "17:37:00",
+      "color": "#623814",
+      "dest_time": "18:03:00"
+    },
+    {
+      "train_id": "1989A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "17:50:00",
+      "color": "#623814",
+      "dest_time": "18:16:00"
+    },
+    {
+      "train_id": "1991A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "18:07:00",
+      "color": "#623814",
+      "dest_time": "18:33:00"
+    },
+    {
+      "train_id": "1993A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "18:20:00",
+      "color": "#623814",
+      "dest_time": "18:46:00"
+    },
+    {
+      "train_id": "1995A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "18:37:00",
+      "color": "#623814",
+      "dest_time": "19:03:00"
+    },
+    {
+      "train_id": "1997A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "18:50:00",
+      "color": "#623814",
+      "dest_time": "19:16:00"
+    },
+    {
+      "train_id": "1999A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "19:07:00",
+      "color": "#623814",
+      "dest_time": "19:33:00"
+    },
+    {
+      "train_id": "2001A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "19:20:00",
+      "color": "#623814",
+      "dest_time": "19:46:00"
+    },
+    {
+      "train_id": "2003A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "19:37:00",
+      "color": "#623814",
+      "dest_time": "20:03:00"
+    },
+    {
+      "train_id": "2005A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "19:50:00",
+      "color": "#623814",
+      "dest_time": "20:16:00"
+    },
+    {
+      "train_id": "2007A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "20:07:00",
+      "color": "#623814",
+      "dest_time": "20:33:00"
+    },
+    {
+      "train_id": "2009A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "20:20:00",
+      "color": "#623814",
+      "dest_time": "20:46:00"
+    },
+    {
+      "train_id": "2011A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "20:37:00",
+      "color": "#623814",
+      "dest_time": "21:03:00"
+    },
+    {
+      "train_id": "2013A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "21:07:00",
+      "color": "#623814",
+      "dest_time": "21:33:00"
+    },
+    {
+      "train_id": "2015A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "21:20:00",
+      "color": "#623814",
+      "dest_time": "21:46:00"
+    },
+    {
+      "train_id": "2017A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "21:50:00",
+      "color": "#623814",
+      "dest_time": "22:16:00"
+    },
+    {
+      "train_id": "2019A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "22:07:00",
+      "color": "#623814",
+      "dest_time": "22:33:00"
+    },
+    {
+      "train_id": "2021A",
+      "ka_name": "COMMUTER LINE TANGERANG",
+      "route_name": "TANGERANG-DURI",
+      "dest": "DURI",
+      "time_est": "22:37:00",
+      "color": "#623814",
+      "dest_time": "23:03:00"
+    }
+  ]
+}

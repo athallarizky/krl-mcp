@@ -1,0 +1,21 @@
+{
+  "source": "https://github.com/open-krl/pipeline/releases/download/v0.1.0/krl_gtfs_v1.zip",
+  "release_tag": "v0.1.0",
+  "published_at": "2026-09-18T04:20:50Z",
+  "sha256": "cd1a2f75763d807cacc1388fcaa9410c13ea1da3ef6400a63cdd8fe3573f813c",
+  "rows": {
+    "stop_times": 18416,
+    "trips": 1139,
+    "routes": 6,
+    "stops": 94
+  },
+  "service_days": "weekday_only",
+  "coverage": "jabodetabek (94 stops; Yogyakarta-Solo line not in feed)",
+  "verified_against_board": {
+    "board_snapshot": "v2-snap6",
+    "join": "trip_id == train_id (spot-checked 1903A, 5752C, 1613D)",
+    "note": "GTFS keeps times >= 24:00:00 (service-day convention); board wraps them to 00:xx. stop_times uses GRG, catalog uses GGL (normalize at ingest)."
+  },
+  "downloaded_at": "2026-10-17T00:00:00Z",
+  "license": "CC-BY-4.0"
+}

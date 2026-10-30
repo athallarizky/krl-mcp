@@ -1,0 +1,6 @@
+# binary
+krl-mcp
+/bin/
+
+# os/editor
+.DS_Store

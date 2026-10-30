@@ -1,0 +1,68 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "train_id": "311",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "05:05:00",
+      "color": "#16812b",
+      "dest_time": "06:56:00"
+    },
+    {
+      "train_id": "319",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "07:45:00",
+      "color": "#16812b",
+      "dest_time": "09:39:00"
+    },
+    {
+      "train_id": "313",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "10:05:00",
+      "color": "#16812b",
+      "dest_time": "11:57:00"
+    },
+    {
+      "train_id": "321",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "12:44:00",
+      "color": "#16812b",
+      "dest_time": "14:35:00"
+    },
+    {
+      "train_id": "315",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "16:40:00",
+      "color": "#16812b",
+      "dest_time": "18:34:00"
+    },
+    {
+      "train_id": "323",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "19:00:00",
+      "color": "#16812b",
+      "dest_time": "20:51:00"
+    },
+    {
+      "train_id": "317",
+      "ka_name": "COMMUTERLINE MERAK",
+      "route_name": "MERAK-RANGKASBITUNG",
+      "dest": "RANGKASBITUNG",
+      "time_est": "21:20:00",
+      "color": "#16812b",
+      "dest_time": "23:11:00"
+    }
+  ]
+}
