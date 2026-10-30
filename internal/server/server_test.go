@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"os/exec"
 	"path/filepath"
+	"runtime"
 	"testing"
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
@@ -15,9 +16,15 @@ import (
 // ./...` needs nothing but this repository.
 func TestToolsEndToEnd(t *testing.T) {
 	bin := filepath.Join(t.TempDir(), "krl-mcp")
-	// build by import path — the test's cwd is this package dir, which is
-	// inside the module, so the path resolves
-	build := exec.Command("go", "build", "-o", bin, "github.com/athallarizky/krl-mcp/cmd/krl-mcp")
+	// locate the module root from this file's location — deterministic on
+	// any machine/CI layout, then build the main package relative to it
+	_, thisFile, _, ok := runtime.Caller(0)
+	if !ok {
+		t.Fatal("runtime.Caller failed")
+	}
+	root := filepath.Join(filepath.Dir(thisFile), "..", "..")
+	build := exec.Command("go", "build", "-o", bin, "./cmd/krl-mcp")
+	build.Dir = root
 	if out, err := build.CombinedOutput(); err != nil {
 		t.Fatalf("build: %v\n%s", err, out)
 	}
