@@ -1,17 +1,42 @@
 # krl-mcp
 
+[![CI](https://github.com/athallarizky/krl-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/athallarizky/krl-mcp/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/athallarizky/krl-mcp.svg)](https://pkg.go.dev/github.com/athallarizky/krl-mcp)
+[![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
+
 A **fully self-contained [Model Context Protocol](https://modelcontextprotocol.io) server** for Jakarta's KRL Commuter train schedules — written in Go, running entirely from pinned data artifacts in memory. No database, no cache, no network: clone it, hand it to your MCP host, and ask it about trains.
 
 Part of a larger system: this is the MCP face of [krl-schedule-service](https://github.com/athallarizky/krl-schedule-service) (production service with a REST API, Postgres, Redis, and a trip planner), rebuilt here as a zero-infrastructure demo that anyone can run in 60 seconds.
 
-## Try it in 60 seconds
+## Install
+
+**Option A — one line with Go** (1.25+):
+
+```bash
+go install github.com/athallarizky/krl-mcp/cmd/krl-mcp@latest
+claude mcp add krl --scope user -- "$(go env GOPATH)/bin/krl-mcp"
+```
+
+**Option B — download a prebuilt binary** (no Go needed): grab your platform from [Releases](https://github.com/athallarizky/krl-mcp/releases), `chmod +x` it, then:
+
+```bash
+claude mcp add krl --scope user -- /path/to/krl-mcp
+```
+
+**Other MCP hosts** (Claude Desktop, Cursor, ...) — same idea, JSON config:
+
+```json
+{ "mcpServers": { "krl": { "command": "/path/to/krl-mcp" } } }
+```
+
+**Build from source**:
 
 ```bash
 git clone https://github.com/athallarizky/krl-mcp && cd krl-mcp
-go build -o krl-mcp ./cmd/krl-mcp
-
-claude mcp add krl -- "$PWD/krl-mcp"
+go build -o krl-mcp ./cmd/krl-mcp   # Go 1.25+
 ```
+
+Then ask Claude Code:
 
 Then ask Claude Code:
 
@@ -19,7 +44,7 @@ Then ask Claude Code:
 > *"I'm at Tanah Abang and must reach Kebayoran before 6 AM — which train?"*
 > *"How does train 5133D get from Kranji to Duri?"*
 
-No Docker. No Postgres. No API keys. The open-krl snapshot is **embedded in the binary** (`go:embed`) and parsed into memory at startup — the build produces one self-contained executable that runs from anywhere.
+No Docker. No Postgres. No API keys. The open-krl snapshot is **embedded in the binary** (`go:embed`) — one self-contained executable that runs from anywhere, spawned from any working directory.
 
 ## Tools
 
